@@ -2,7 +2,7 @@
 
 # 14.60
 Warning: Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
-### Bosses
+### • Bosses
 
 Jules
 ```
@@ -39,7 +39,7 @@ PlaceHolder
 cheat summon 
 ```
 #
-### STW Zombies
+### • STW Zombies
 
 Husk
 ```
@@ -52,7 +52,7 @@ Husk Zapper
 cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn_Zapper.HuskPawn_Zapper_C
 ```
 #
-### Vehicles
+### • Vehicles
 
 Golf Cart
 ```
@@ -82,7 +82,7 @@ Sedan (NOT SUPPORTED BY REBOOT)
 cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle.Valet_BasicCar_Vehicle_C
 ```
 #
-### Funny Stuff
+### • Funny Stuff
 
 StormKing
 ```
