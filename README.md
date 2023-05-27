@@ -2,4 +2,8 @@
 
 ## 14.60
 
-```cheat spawnpickup AGID_Tomato_Jelly_WithHands```
+```
+git status
+git add
+git commit
+```
