@@ -1,7 +1,7 @@
 # Fortnite WIDs & AGIDs
 
 # 14.60
-
+Warning: Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
 ### Weapons & Consumables
 
 Stark Jetpack
