@@ -2,7 +2,7 @@
 
 # 14.60
 Warning: Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
-### • Bosses
+### • Hostiles Pawns
 
 Jules
 ```
@@ -22,9 +22,9 @@ cheat summon
 ```
 
 #
-PlaceHolder
+Some Shit
 ```
-cheat summon 
+cheat summon /Game/Athena/AI/NPCs/Tandem/Hostile/Pawns/BP_PlayerPawn_TandemHostile.BP_PlayerPawn_TandemHostile_C
 ```
 
 #
