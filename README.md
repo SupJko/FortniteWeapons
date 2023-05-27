@@ -2,7 +2,7 @@
 
 # 14.60
 Warning: Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
-### Weapons & Consumables
+### • Weapons & Consumables
 
 Stark Jetpack
 ```
@@ -35,7 +35,7 @@ cheat spawnpickup WID_Assault_Stark_Athena_R_Ore_T03
 ##
 
 
-### SuperPowers
+### • SuperPowers
 
 Venom's Smash & Grab (Playlist Item)
 ```
@@ -180,7 +180,7 @@ Iron Man's Repulsor Gauntlets (Gadget)
 ```
 cheat spawnpickup WID_HighTower_Tomato_Repulsor
 ```
-### Glitched (Playlist Abilities & Dev)
+### • Glitched (Playlist Abilities & Dev)
 
 Air Dash (Wolverine) (Ability)
 ```
