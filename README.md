@@ -104,96 +104,10 @@ Iron Man's Repulsor Gauntlets (Playlist Item)
 ```
 cheat spawnpickup AGID_HighTower_Tomato_Repulsors
 ```
-
-##
-
-```
-
-```
-
-##
-
-```
-
-```
-
-##
-
-```
-
-```
-
-##
-
-```
-
-```
-
-##
-
-```
-
-```
-
-##
-
-```
-
-```
-
-##
-
-```
-
-```
-
-##
-
-```
-
-```
-
-##
-
-```
-
-```
-
-##
-
-```
-
-```
-
-##
-
-```
-
-```
 ##
 Storm's Tornado Launch
 ```
 cheat spawnpickup AGID_HighTower_Squash_TornadoJump
-```
-##
-Air Dash (Wolverine) (Glitched)
-```
-cheat spawnpickup AGID_HighTower_Wasabi_Claws_Jump
-```
-##
-Leap Smash (Hulk?) (Glitched)
-```
-cheat spawnpickup AGID_HighTower_HoneyDew_JumpSmash
-```
-##
-Levitate (Doctor Doom) (Glitched)
-```
-cheat spawnpickup AGID_HighTower_Date_ChainLightning_Jump
-```
-##
-Booster Jets (Iron Man) (Glitched
-```
-cheat spawnpickup AGID_HighTower_Tomato_Repulsors_Jump
 ```
 ##
 Wolverine's Claws
@@ -221,38 +135,80 @@ Thor's Mjolnir Strike
 cheat spawnpickup WID_HighTower_Tapas_SkyStrike_CoreBR
 ```
 ##
-
+Groot's Bramble Shield
 ```
-
-```
-##
-
-```
-
+cheat spawnpickup WID_HighTower_Grape_BrambleShield_CoreBR
 ```
 ##
-
+Silver Surfer's Board
 ```
-
-```
-##
-
-```
-
+cheat spawnpickup WID_HighTower_Soy_Boarding_CoreBR
 ```
 ##
-
+Black Panther's Kinetic Armor
 ```
-
-```
-##
-
-```
-
+cheat spawnpickup WID_HighTower_Plum_KineticAbs_CoreBR
 ```
 ##
-
+Iron Man Unibeam
 ```
-
+cheat spawnpickup WID_HighTower_Tomato_RepulsorCannon_CoreBR
 ```
 ##
+Iron Man's Repulsor Gauntlets
+```
+cheat spawnpickup WID_HighTower_Tomato_Repulsor_CoreBR
+```
+##
+Doctor Doom's Mystical Bomb
+```
+cheat spawnpickup WID_HighTower_Date_BallLightning_CoreBR
+```
+##
+Doctor Doom's Arcane Gauntlets
+```
+cheat spawnpickup WID_HighTower_Date_ChainLightning_CoreBR
+```
+
+##
+Wolverine's Claws
+```
+cheat spawnpickup WID_HighTower_Wasabi_Claws
+```
+##
+Iron Man's Repulsor Gauntlets (Gadget)
+```
+cheat spawnpickup WID_HighTower_Tomato_Repulsor
+```
+### Glitched (Playlist Abilities & Dev)
+
+Air Dash (Wolverine) (Ability)
+```
+cheat spawnpickup AGID_HighTower_Wasabi_Claws_Jump
+```
+##
+Leap Smash (She-Hulk) (Ability)
+```
+cheat spawnpickup AGID_HighTower_HoneyDew_JumpSmash
+```
+##
+Levitate (Doctor Doom) (Ability)
+```
+cheat spawnpickup AGID_HighTower_Date_ChainLightning_Jump
+```
+##
+Booster Jets (Iron Man) (Ability)
+```
+cheat spawnpickup AGID_HighTower_Tomato_Repulsors_Jump
+```
+##
+She Hulk's Fists (Debug)
+```
+cheat spawnpickup WID_HighTower_HoneyDew_Fists
+```
+##
+Doctor Doom's Arcane Gauntlets (Debug)
+```
+cheat spawnpickup WID_HighTower_Date_ChainLightning
+```
+
