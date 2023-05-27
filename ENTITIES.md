@@ -39,7 +39,7 @@ PlaceHolder
 cheat summon 
 ```
 #
-### • STW Zombies
+### • Zombies
 
 Husk
 ```
@@ -50,6 +50,11 @@ cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn.HuskPawn_C
 Husk Zapper
 ```
 cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn_Zapper.HuskPawn_Zapper_C
+```
+#
+Brute
+```
+cheat summon /Game/Athena/AI/Pawns/AthenaAI_Brute.AthenaAI_Brute_C
 ```
 #
 ### • Vehicles
