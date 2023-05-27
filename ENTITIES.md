@@ -41,9 +41,15 @@ cheat summon
 #
 ### STW Zombies
 
-PlaceHolder
+Husk
 ```
-cheat summon 
+cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn.HuskPawn_C
+```
+#
+
+Husk Zapper
+```
+cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn_Zapper.HuskPawn_Zapper_C
 ```
 #
 ### Vehicles
