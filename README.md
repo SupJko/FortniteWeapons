@@ -8,7 +8,7 @@ Stark Jetpack
 ```
 cheat spawnpickup AGID_Tomato_Jelly_WithHands
 ```
-###
+##
 
 Mystique's Dual Auto Pistols
 ```
