@@ -6,13 +6,13 @@ Warning: Some of the items might bug/crash or keep the ability even if the item 
 
 Jules
 ```
-cheat summon 
+cheat summon /Game/Athena/AI/MANG/BP_MangPlayerPawn_Boss_Midas.BP_MangPlayerPawn_Boss_Midas_C
 ```
 
 #
 Shadow Midas
 ```
-cheat summon 
+cheat summon
 ```
 
 #
