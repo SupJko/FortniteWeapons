@@ -41,7 +41,6 @@ PlaceHolder
 
 ### STW Zombies
 
-#
 PlaceHolder
 ```
 
@@ -49,7 +48,6 @@ PlaceHolder
 
 ### Vehicles
 
-#
 Golf Cart
 ```
 
@@ -69,7 +67,6 @@ Biplane
 
 ### Funny Stuff
 
-#
 StormKing
 ```
 
