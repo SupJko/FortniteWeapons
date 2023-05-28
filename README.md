@@ -281,7 +281,7 @@ cheat spawnpickup WID_HighTower_HoneyDew_Fists
 ```
 ##
 
-<img src="https://media.discordapp.net/attachments/1112312558297292833/1112349730668814356/WID_HighTower_Date_ChainLightning.png" alt= “” width="250" height="50"> Doctor Doom's Arcane Gauntlets (Debug)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112349730668814356/WID_HighTower_Date_ChainLightning.png" alt= “” width="300" height="100"> Doctor Doom's Arcane Gauntlets (Debug)
 
 ```
 cheat spawnpickup WID_HighTower_Date_ChainLightning
