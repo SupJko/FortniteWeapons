@@ -4,11 +4,7 @@
 Warning: Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
 ### • Weapons & Consumables
 
-
-![Link Name](https://static.wikia.nocookie.net/fortnite/images/b/b0/Stark_Industries_Jetpack_-_Item_-_Fortnite.png/)
-
-
-<img src="https://static.wikia.nocookie.net/fortnite/images/b/b0/Stark_Industries_Jetpack_-_Item_-_Fortnite.png/" alt= “” width="10" height="10">
+<img src="https://static.wikia.nocookie.net/fortnite/images/b/b0/Stark_Industries_Jetpack_-_Item_-_Fortnite.png/" alt= “” width="50" height="50">
 Stark Jetpack
 ```
 cheat spawnpickup AGID_Tomato_Jelly_WithHands
