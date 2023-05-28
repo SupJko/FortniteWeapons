@@ -45,6 +45,139 @@ cheat spawnpickup WID_Assault_Stark_Athena_R_Ore_T03
 ```
 ##
 
+<img src="https://static.wikia.nocookie.net/fortnite/images/2/23/Jules%27_Drum_Gun_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Jules' Drum Gun
+
+```
+cheat spawnpickup WID_Boss_Midas
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/2/2f/Heavy_Assault_Rifle_%28High_Tier%29_-_Weapon_-_Fortnite.png/" alt= “” width="50" height="50"> Meowscle's Peow Peow Rifle
+
+```
+cheat spawnpickup WID_Boss_Meow_HA
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/f/f4/Minigun_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Brutus' Minigun
+
+```
+cheat spawnpickup WID_Boss_Hos_MG
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/5/5c/Jules%27_Glider_Gun_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Jules' Glider Gun
+
+```
+cheat spawnpickup WID_Boss_GrapplingHoot
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/c/c6/Shadow_Midas%27_Drum_Gun_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Shadow Midas' Drum Gun
+
+```
+cheat spawnpickup WID_Boss_GhostMidas
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/2/29/Grappler_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Skye's Grappler
+
+```
+cheat spawnpickup WID_Boss_Adventure_GH
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/e/ec/Assault_Rifle_%28High_Level%29_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Skye's Assault Rifle
+
+```
+cheat spawnpickup WID_Boss_Adventure_AR
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
 
 ### • SuperPowers
 
