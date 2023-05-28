@@ -117,14 +117,14 @@ cheat spawnpickup AGID_HighTower_Date_BallLightning
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Doctor Doom's Arcane Gauntlets (Playlist Item)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112380319581093990/image.png" alt= “” width="250" height="50"> Doctor Doom's Arcane Gauntlets (Playlist Item)
 
 ```
 cheat spawnpickup AGID_HighTower_Date_ChainLightning
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Iron Man's Unibeam (Playlist Item)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112384456465068063/image.png" alt= “” width="250" height="50"> Iron Man's Unibeam (Playlist Item)
 
 ```
 cheat spawnpickup AGID_HighTower_Tomato_RepulsorCannon
@@ -132,7 +132,7 @@ cheat spawnpickup AGID_HighTower_Tomato_RepulsorCannon
 
 ##
 
-<img src="" alt= “” width="50" height="50"> Iron Man's Repulsor Gauntlets (Playlist Item)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112384528095387770/image.png" alt= “” width="250" height="50"> Iron Man's Repulsor Gauntlets (Playlist Item)
 
 ```
 cheat spawnpickup AGID_HighTower_Tomato_Repulsors
