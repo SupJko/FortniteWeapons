@@ -110,3 +110,11 @@ cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle.Valet_BasicCar_Vehicle_C
 ```
 cheat summon /Game/Athena/DADBRO/DADBRO_Pawn.DADBRO_Pawn_C
 ```
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/3/37/Supply_Drop_-_Chests_-_Fortnite.png" alt= “” width="100" height="100"> SupplyDrop
+
+```
+cheat summon /Game/Athena/SupplyDrops/AthenaSupplyDrop.AthenaSupplyDrop_C
+```
+
+
