@@ -94,10 +94,10 @@ cheat spawnpickup WID_Boss_Adventure_AR
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> 
+<img src="https://static.wikia.nocookie.net/fortnite/images/1/1b/Zapotron.png" alt= “” width="50" height="50"> Zapotron
 
 ```
-cheat spawnpickup 
+cheat spawnpickup WID_Sniper_AMR_SR_Crystal_T05
 ```
 ##
 
