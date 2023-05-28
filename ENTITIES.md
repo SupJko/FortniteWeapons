@@ -4,92 +4,107 @@
 Warning: Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
 ### • Hostiles Pawns
 
-Jules
+<img src="https://static.wikia.nocookie.net/fortnite/images/b/b7/Jules_%28Featured%29_-_Outfit_-_Fortnite.png" alt= “” width="50" height="100"> Jules
+
 ```
 cheat summon /Game/Athena/AI/MANG/BP_MangPlayerPawn_Boss_Midas.BP_MangPlayerPawn_Boss_Midas_C
 ```
 
 #
-Shadow Midas
+<img src="" alt= “” width="50" height="50"> Shadow Midas
+
 ```
 cheat summon
 ```
 
 #
-Brutus
+<img src="" alt= “” width="50" height="50"> Brutus
+
 ```
 cheat summon 
 ```
 
 #
-Some Shit
+<img src="" alt= “” width="50" height="50"> Some Shit
+
 ```
 cheat summon /Game/Athena/AI/NPCs/Tandem/Hostile/Pawns/BP_PlayerPawn_TandemHostile.BP_PlayerPawn_TandemHostile_C
 ```
 
 #
-PlaceHolder
+<img src="" alt= “” width="50" height="50"> PlaceHolder
+
 ```
 cheat summon 
 ```
 
 #
-PlaceHolder
+<img src="" alt= “” width="50" height="50"> PlaceHolder
+
 ```
 cheat summon 
 ```
 #
 ### • Zombies
 
-Husk
+<img src="" alt= “” width="50" height="50"> Husk
+
 ```
 cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn.HuskPawn_C
 ```
 #
 
-Husk Zapper
+<img src="" alt= “” width="50" height="50"> Husk Zapper
+
 ```
 cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn_Zapper.HuskPawn_Zapper_C
 ```
 #
-Brute
+<img src="" alt= “” width="50" height="50"> Brute
+
 ```
 cheat summon /Game/Athena/AI/Pawns/AthenaAI_Brute.AthenaAI_Brute_C
 ```
 #
 ### • Vehicles
 
-Golf Cart
+<img src="" alt= “” width="50" height="50"> Golf Cart
+
 ```
 cheat summon /Game/Athena/DrivableVehicles/Golf_Cart/Golf_Cart_Base/Blueprints/GolfCartVehicleSK.GolfCartVehicleSK_C
 ```
 
 #
-Quad
+<img src="" alt= “” width="50" height="50"> Quad
+
 ```
 cheat summon /Game/Athena/DrivableVehicles/AntelopeVehicle.AntelopeVehicle_C
 ```
 
 #
-Biplane
+<img src="" alt= “” width="50" height="50"> Biplane
+
 ```
 cheat summon /Game/Athena/DrivableVehicles/Biplane/Blueprints/FerretVehicle.FerretVehicle_C
 ```
 #
-Push Cannon (Might not be supported by Reboot ATM)
+<img src="" alt= “” width="50" height="50"> Push Cannon (Might not be supported by Reboot ATM)
+
 ```
 cheat summon /Game/Athena/DrivableVehicles/PushCannon.PushCannon_C
 ```
 
 #
-Sedan (NOT SUPPORTED BY REBOOT)
+<img src="" alt= “” width="50" height="50"> Sedan (NOT SUPPORTED BY REBOOT)
+
 ```
 cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle.Valet_BasicCar_Vehicle_C
 ```
 #
 ### • Funny Stuff
 
-StormKing
+<img src="" alt= “” width="50" height="50"> StormKing
+
 ```
 cheat summon /Game/Athena/DADBRO/DADBRO_Pawn.DADBRO_Pawn_C
 ```
