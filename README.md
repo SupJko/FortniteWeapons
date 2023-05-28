@@ -30,7 +30,7 @@ cheat spawnpickup WID_Assault_Stark_Athena_VR_Ore_T03
 ##
 
 
-<img src="" alt= “” width="50" height="50"> Stark Industries Energy Rifle (LEGENDARY)
+<img src="https://static.wikia.nocookie.net/fortnite/images/6/6f/Stark_Industries_Energy_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Stark Industries Energy Rifle (LEGENDARY)
 
 ```
 cheat spawnpickup WID_Assault_Stark_Athena_SR_Ore_T03
@@ -38,7 +38,7 @@ cheat spawnpickup WID_Assault_Stark_Athena_SR_Ore_T03
 ##
 
 
-<img src="" alt= “” width="50" height="50"> Stark Industries Energy Rifle (RARE)
+<img src="https://static.wikia.nocookie.net/fortnite/images/6/6f/Stark_Industries_Energy_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Stark Industries Energy Rifle (RARE)
 
 ```
 cheat spawnpickup WID_Assault_Stark_Athena_R_Ore_T03
@@ -139,91 +139,91 @@ cheat spawnpickup AGID_HighTower_Tomato_Repulsors
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Storm's Tornado Launch
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/b/b6/Storm%27s_Tornado_Launch.png" alt= “” width="50" height="50"> Storm's Tornado Launch
 
 ```
 cheat spawnpickup AGID_HighTower_Squash_TornadoJump
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Wolverine's Claws
+<img src="https://static.wikia.nocookie.net/fortnite/images/b/b0/Wolverine%27s_Claws_-_Superpower_-_Fortnite.png" alt= “” width="50" height="50"> Wolverine's Claws
 
 ```
 cheat spawnpickup WID_HighTower_Wasabi_Claws_CoreBR
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> She-Hulk's Fists
+<img src="https://static.wikia.nocookie.net/fortnite/images/6/6a/She-Hulk%27s_Fists_-_Superpower_-_Fortnite.png" alt= “” width="50" height="50"> She-Hulk's Fists
 
 ```
 cheat spawnpickup WID_HighTower_HoneyDew_Fists_CoreBR
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Storm's Whirlwind Blast
+<img src="https://static.wikia.nocookie.net/fortnite/images/0/01/Storm%27s_Whirlwind_Blast_-_Superpower_-_Fortnite.png" alt= “” width="50" height="50"> Storm's Whirlwind Blast
 
 ```
 cheat spawnpickup WID_HighTower_Squash_WhirlwindBlast_CoreBR
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Venom's Smash & Grab
+<img src="https://static.wikia.nocookie.net/fortnite/images/1/1f/Venom%27s_Smash_and_Grab_-_Superpower_-_Fortnite.png" alt= “” width="50" height="50"> Venom's Smash & Grab
 
 ```
 cheat spawnpickup WID_HighTower_Vertigo_Punch_CoreBR
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Thor's Mjolnir Strike
+<img src="https://static.wikia.nocookie.net/fortnite/images/0/0a/Thor%27s_Mjolnir_Strike_-_Superpower_-_Fortnite.png" alt= “” width="50" height="50"> Thor's Mjolnir Strike
 
 ```
 cheat spawnpickup WID_HighTower_Tapas_SkyStrike_CoreBR
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Groot's Bramble Shield
+<img src="https://static.wikia.nocookie.net/fortnite/images/5/55/Groot%27s_Bramble_Shield_-_Superpower_-_Fortnite.png" alt= “” width="50" height="50"> Groot's Bramble Shield
 
 ```
 cheat spawnpickup WID_HighTower_Grape_BrambleShield_CoreBR
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Silver Surfer's Board
+<img src="https://static.wikia.nocookie.net/fortnite/images/f/f4/Silver_Surfer%27s_Board_-_Superpower_-_Fortnite.png" alt= “” width="50" height="50"> Silver Surfer's Board
 
 ```
 cheat spawnpickup WID_HighTower_Soy_Boarding_CoreBR
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Black Panther's Kinetic Armor
+<img src="https://static.wikia.nocookie.net/fortnite/images/4/40/Black_Panther%27s_Kinetic_Armor_-_Superpower_-_Fortnite.png" alt= “” width="50" height="50"> Black Panther's Kinetic Armor
 
 ```
 cheat spawnpickup WID_HighTower_Plum_KineticAbs_CoreBR
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Iron Man Unibeam
+<img src="https://static.wikia.nocookie.net/fortnite/images/a/ab/Iron_Man%27s_Unibeam_-_Superpower_-_Fortnite.png" alt= “” width="50" height="50"> Iron Man Unibeam
 
 ```
 cheat spawnpickup WID_HighTower_Tomato_RepulsorCannon_CoreBR
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Iron Man's Repulsor Gauntlets
+<img src="https://static.wikia.nocookie.net/fortnite/images/7/79/Iron_Man%27s_Repulsor_Gauntlets_-_Superpower_-_Fortnite.png" alt= “” width="50" height="50"> Iron Man's Repulsor Gauntlets
 
 ```
 cheat spawnpickup WID_HighTower_Tomato_Repulsor_CoreBR
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Doctor Doom's Mystical Bomb
+<img src="https://static.wikia.nocookie.net/fortnite/images/2/2c/Doctor_Doom%27s_Mystical_Bomb_-_Superpower_-_Fortnite.png" alt= “” width="50" height="50"> Doctor Doom's Mystical Bomb
 
 ```
 cheat spawnpickup WID_HighTower_Date_BallLightning_CoreBR
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Doctor Doom's Arcane Gauntlets
+<img src="https://static.wikia.nocookie.net/fortnite/images/9/9b/Doctor_Doom%27s_Arcane_Gauntlets_-_Superpower_-_Fortnite.png" alt= “” width="50" height="50"> Doctor Doom's Arcane Gauntlets
 
 ```
 cheat spawnpickup WID_HighTower_Date_ChainLightning_CoreBR
@@ -231,14 +231,14 @@ cheat spawnpickup WID_HighTower_Date_ChainLightning_CoreBR
 
 ##
 
-<img src="" alt= “” width="50" height="50"> Wolverine's Claws
+<img src="https://static.wikia.nocookie.net/fortnite/images/b/b0/Wolverine%27s_Claws_-_Superpower_-_Fortnite.png" alt= “” width="50" height="50"> Wolverine's Claws
 
 ```
 cheat spawnpickup WID_HighTower_Wasabi_Claws
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Iron Man's Repulsor Gauntlets (Gadget)
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/e4/IronManRepulsorsIcon.png" alt= “” width="50" height="50"> Iron Man's Repulsor Gauntlets (Gadget)
 
 ```
 cheat spawnpickup WID_HighTower_Tomato_Repulsor
