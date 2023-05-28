@@ -47,14 +47,14 @@ cheat summon
 #
 ### • Zombies
 
-<img src="" alt= “” width="50" height="50"> Husk
+<img src="https://static.wikia.nocookie.net/fortnite/images/f/f2/Husk_-_A.I_-_Fortnite.png" alt= “” width="75" height="100"> Husk
 
 ```
 cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn.HuskPawn_C
 ```
 #
 
-<img src="" alt= “” width="50" height="50"> Husk Zapper
+<img src="https://static.wikia.nocookie.net/fortnite/images/c/c7/Zapper_Husk_-_Monster_-_Fortnite.png" alt= “” width="75" height="100"> Husk Zapper
 
 ```
 cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn_Zapper.HuskPawn_Zapper_C
