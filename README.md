@@ -246,28 +246,28 @@ cheat spawnpickup WID_HighTower_Tomato_Repulsor
 ### • Glitched (Playlist Abilities & Dev)
 
 
-<img src="" alt= “” width="50" height="50"> Air Dash (Wolverine) (Ability)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112348230999613581/T-T-Icon-HightowerPickups-Hightower-BerserkerDash-L.png" alt= “” width="50" height="50"> Air Dash (Wolverine) (Ability)
 
 ```
 cheat spawnpickup AGID_HighTower_Wasabi_Claws_Jump
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Leap Smash (She-Hulk) (Ability)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112348811155755068/T-T-Icon-HightowerPickups-Hightower-LeapSlam-L.png" alt= “” width="50" height="50"> Leap Smash (She-Hulk) (Ability)
 
 ```
 cheat spawnpickup AGID_HighTower_HoneyDew_JumpSmash
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Levitate (Doctor Doom) (Ability)
+<img src="https://cdn.discordapp.com/attachments/1112312558297292833/1112349080379723806/T-T-Icon-HightowerPickups-Hightower-Levitate-L.png" alt= “” width="50" height="50"> Levitate (Doctor Doom) (Ability)
 
 ```
 cheat spawnpickup AGID_HighTower_Date_ChainLightning_Jump
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Booster Jets (Iron Man) (Ability)
+<img src="https://cdn.discordapp.com/attachments/1112312558297292833/1112349288966660106/T-T-Icon-HightowerPickups-Hightower-JumpJet-L.png" alt= “” width="50" height="50"> Booster Jets (Iron Man) (Ability)
 
 ```
 cheat spawnpickup AGID_HighTower_Tomato_Repulsors_Jump
