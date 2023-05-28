@@ -136,10 +136,10 @@ cheat spawnpickup AGID_AshtonPack_Turbo
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> 
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/6/63/CaptainAmerica%27sShield.png" alt= “” width="50" height="50"> Captain America's Shield
 
 ```
-cheat spawnpickup 
+cheat spawnpickup AGID_AshtonPack_Chicago
 ```
 ##
 
