@@ -129,10 +129,10 @@ cheat spawnpickup AGID_Sword
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> 
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/3/36/Thor%27s_Storbreakericon.png" alt= “” width="50" height="50"> Thor's Stormbreaker
 
 ```
-cheat spawnpickup 
+cheat spawnpickup AGID_AshtonPack_Turbo
 ```
 ##
 
