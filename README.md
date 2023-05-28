@@ -143,17 +143,17 @@ cheat spawnpickup AGID_AshtonPack_Chicago
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> 
+<img src="https://static.wikia.nocookie.net/fortnite/images/a/a5/Chug_Jug_-_Item_-_Fortnite.png/" alt= “” width="50" height="50"> Ocean's Bottomless Chug Jug
 
 ```
-cheat spawnpickup 
+cheat spawnpickup WID_Athena_BottomlessChugJug
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> 
+<img src="https://static.wikia.nocookie.net/fortnite/images/a/a9/Firefly_Jar_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> Firefly Jar
 
 ```
-cheat spawnpickup 
+cheat spawnpickup WID_Athena_Grenade_Molotov
 ```
 ##
 
