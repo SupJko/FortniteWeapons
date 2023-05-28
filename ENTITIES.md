@@ -75,27 +75,27 @@ cheat summon /Game/Athena/DrivableVehicles/Golf_Cart/Golf_Cart_Base/Blueprints/G
 ```
 
 #
-<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/8/80/Quadcrasher_icon.png" alt= “” width="50" height="50"> Quad
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/8/80/Quadcrasher_icon.png" alt= “” width="100" height="100"> Quad
 
 ```
 cheat summon /Game/Athena/DrivableVehicles/AntelopeVehicle.AntelopeVehicle_C
 ```
 
 #
-<img src="https://static.wikia.nocookie.net/fortnite/images/6/6a/X-4_Stormwing_-_Vehicle_-_Fortnite.png" alt= “” width="50" height="50"> Biplane
+<img src="https://static.wikia.nocookie.net/fortnite/images/6/6a/X-4_Stormwing_-_Vehicle_-_Fortnite.png" alt= “” width="100" height="100"> Biplane
 
 ```
 cheat summon /Game/Athena/DrivableVehicles/Biplane/Blueprints/FerretVehicle.FerretVehicle_C
 ```
 #
-<img src="" alt= “” width="50" height="50"> Push Cannon (Might not be supported by Reboot ATM)
+<img src="" alt= “” width="100" height="100"> Push Cannon (Might not be supported by Reboot ATM)
 
 ```
 cheat summon /Game/Athena/DrivableVehicles/PushCannon.PushCannon_C
 ```
 
 #
-<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/8/8a/Prevalent_Vehicle.png/" alt= “” width="50" height="50"> Sedan (NOT SUPPORTED BY REBOOT)
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/8/8a/Prevalent_Vehicle.png/" alt= “” width="100" height="100"> Sedan (NOT SUPPORTED BY REBOOT)
 
 ```
 cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle.Valet_BasicCar_Vehicle_C
@@ -103,7 +103,7 @@ cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle.Valet_BasicCar_Vehicle_C
 #
 ### • Funny Stuff
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2fea277d-540b-42af-b152-782940dc49ef/ddo3peq-63938573-090b-4bd7-acc6-228ed31e95d1.png" alt= “” width="50" height="50"> StormKing
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2fea277d-540b-42af-b152-782940dc49ef/ddo3peq-63938573-090b-4bd7-acc6-228ed31e95d1.png" alt= “” width="100" height="100"> StormKing
 
 ```
 cheat summon /Game/Athena/DADBRO/DADBRO_Pawn.DADBRO_Pawn_C
