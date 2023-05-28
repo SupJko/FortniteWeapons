@@ -90,7 +90,7 @@ cheat summon /Game/Athena/DrivableVehicles/AntelopeVehicle.AntelopeVehicle_C
 cheat summon /Game/Athena/DrivableVehicles/Biplane/Blueprints/FerretVehicle.FerretVehicle_C
 ```
 #
-<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/d/db/PirateCannonSpawner.png" alt= “” width="100" height="100"> Push Cannon (Might not be supported by Reboot ATM)
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/d/db/PirateCannonSpawner.png" alt= “” width="100" height="100"> Pirate Cannon (Might not be supported by Reboot ATM)
 
 ```
 cheat summon /Game/Athena/DrivableVehicles/PushCannon.PushCannon_C
