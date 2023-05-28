@@ -49,14 +49,14 @@ cheat spawnpickup WID_Assault_Stark_Athena_R_Ore_T03
 ### • SuperPowers
 
 
-<img src="" alt= “” width="50" height="50"> Venom's Smash & Grab (Playlist Item)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112378952552558672/image.png" alt= “” width="250" height="50"> Venom's Smash & Grab (Playlist Item)
 
 ```
 cheat spawnpickup AGID_HighTower_Vertigo_Punch
 ```
 ##
 
-Silver Surfer's Board (Playlist Item)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112379032177217577/image.png" alt= “” width="250" height="50"> Silver Surfer's Board (Playlist Item)
 ```
 cheat spawnpickup AGID_HighTower_Soy_Boarding
 ```
@@ -71,7 +71,7 @@ cheat spawnpickup AGID_HighTower_Plum_KineticAbs
 ##
 
 
-<img src="" alt= “” width="50" height="50"> Thor's Mjolnir Strike (Playlist Item)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112379113337016370/image.png" alt= “” width="250" height="50"> Thor's Mjolnir Strike (Playlist Item)
 
 ```
 cheat spawnpickup AGID_HighTower_Tapas_SkyStrike
@@ -79,7 +79,7 @@ cheat spawnpickup AGID_HighTower_Tapas_SkyStrike
 ##
 
 
-<img src="" alt= “” width="50" height="50"> Storm's Whirlwind Blast (Playlist Item)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112379175152652318/image.png" alt= “” width="250" height="50"> Storm's Whirlwind Blast (Playlist Item)
 
 ```
 cheat spawnpickup AGID_HighTower_Squash_WhirlwindBlast
@@ -87,7 +87,7 @@ cheat spawnpickup AGID_HighTower_Squash_WhirlwindBlast
 ##
 
 
-<img src="" alt= “” width="50" height="50"> Groot's Bramble Shield (Playlist Item)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112379251258310696/image.png" alt= “” width="250" height="50"> Groot's Bramble Shield (Playlist Item)
 
 ```
 cheat spawnpickup AGID_HighTower_Grape_BrambleShield
@@ -95,7 +95,7 @@ cheat spawnpickup AGID_HighTower_Grape_BrambleShield
 ##
 
 
-<img src="" alt= “” width="50" height="50"> Wolverine's Claws (Playlist Item)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112379331977682944/image.png" alt= “” width="250" height="50"> Wolverine's Claws (Playlist Item)
 
 ```
 cheat spawnpickup AGID_HighTower_Wasabi_Claws
@@ -103,7 +103,7 @@ cheat spawnpickup AGID_HighTower_Wasabi_Claws
 ##
 
 
-<img src="" alt= “” width="50" height="50"> She-Hulk's Fists (Playlist Item)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112379500395778130/image.png" alt= “” width="250" height="50"> She-Hulk's Fists (Playlist Item)
 
 ```
 cheat spawnpickup AGID_HighTower_HoneyDew_Fist
