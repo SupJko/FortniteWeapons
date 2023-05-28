@@ -68,6 +68,8 @@ cheat summon /Game/Athena/AI/Pawns/AthenaAI_Brute.AthenaAI_Brute_C
 #
 ### • Vehicles
 
+Only working in Chapter one.
+
 <img src="https://static.wikia.nocookie.net/fortnite/images/2/20/ATK_-_Vehicle_-_Fortnite.png" alt= “” width="100" height="100"> Golf Cart
 
 ```
