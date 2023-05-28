@@ -18,7 +18,7 @@ cheat summon
 ```
 
 #
-<img src="https://static.wikia.nocookie.net/fortnite/images/5/5a/Brutus.png/revision/latest?cb=20200228114625&path-prefix=fr" alt= “” width="75" height="100"> Brutus
+<img src="https://static.wikia.nocookie.net/fortnite/images/5/5a/Brutus.png/revision/latest?cb=20200228114625&path-prefix=fr" alt= “” width="50" height="100"> Brutus
 
 ```
 cheat summon 
