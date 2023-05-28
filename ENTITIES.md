@@ -11,14 +11,14 @@ cheat summon /Game/Athena/AI/MANG/BP_MangPlayerPawn_Boss_Midas.BP_MangPlayerPawn
 ```
 
 #
-<img src="" alt= “” width="50" height="50"> Shadow Midas
+<img src="https://static.wikia.nocookie.net/fortnite/images/e/e6/Shadow_Midas_%28Featured%29_-_Outfit_-_Fortnite.png" alt= “” width="100" height="100"> Shadow Midas
 
 ```
 cheat summon
 ```
 
 #
-<img src="" alt= “” width="50" height="50"> Brutus
+<img src="https://static.wikia.nocookie.net/fortnite/images/5/5a/Brutus.png/revision/latest?cb=20200228114625&path-prefix=fr" alt= “” width="100" height="100"> Brutus
 
 ```
 cheat summon 
