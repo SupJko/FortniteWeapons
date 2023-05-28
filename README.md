@@ -274,14 +274,14 @@ cheat spawnpickup AGID_HighTower_Tomato_Repulsors_Jump
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> She Hulk's Fists (Debug)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112349572698742864/WID_HighTower_HoneyDew_Fists.png" alt= “” width="50" height="50"> She Hulk's Fists (Debug)
 
 ```
 cheat spawnpickup WID_HighTower_HoneyDew_Fists
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Doctor Doom's Arcane Gauntlets (Debug)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112349730668814356/WID_HighTower_Date_ChainLightning.png" alt= “” width="250" height="50"> Doctor Doom's Arcane Gauntlets (Debug)
 
 ```
 cheat spawnpickup WID_HighTower_Date_ChainLightning
