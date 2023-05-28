@@ -13,7 +13,9 @@ cheat spawnpickup AGID_Tomato_Jelly_WithHands
 ```
 ##
 
-Mystique's Dual Auto Pistols
+<img src="https://static.wikia.nocookie.net/fortnite/images/2/28/Machine_Pistol_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50">  Mystique's Dual Auto Pistols
+
+
 ```
 cheat spawnpickup WID_HighTower_Mango_DualPistol_Auto_Heavy_Athena
 ```
