@@ -4,7 +4,7 @@
 Warning: Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
 ### • Hostiles Pawns
 
-<img src="https://static.wikia.nocookie.net/fortnite/images/b/b7/Jules_%28Featured%29_-_Outfit_-_Fortnite.png" alt= “” width="85" height="100"> Jules
+<img src="https://static.wikia.nocookie.net/fortnite/images/b/b7/Jules_%28Featured%29_-_Outfit_-_Fortnite.png" alt= “” width="100" height="100"> Jules
 
 ```
 cheat summon /Game/Athena/AI/MANG/BP_MangPlayerPawn_Boss_Midas.BP_MangPlayerPawn_Boss_Midas_C
