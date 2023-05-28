@@ -21,7 +21,7 @@ cheat spawnpickup WID_HighTower_Mango_DualPistol_Auto_Heavy_Athena
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> Stark Industries Energy Rifle (EPIC)
+<img src="https://static.wikia.nocookie.net/fortnite/images/6/6f/Stark_Industries_Energy_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Stark Industries Energy Rifle (EPIC)
 
 
 ```
