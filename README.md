@@ -63,7 +63,7 @@ cheat spawnpickup AGID_HighTower_Soy_Boarding
 ##
 
 
-<img src="https://media.discordapp.net/attachments/1112312558297292833/1112343561497751552/image.png" alt= “” width="200" height="50"> Black Panther's Kinetic Armor (Playlist Item)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112343561497751552/image.png" alt= “” width="250" height="50"> Black Panther's Kinetic Armor (Playlist Item)
 
 ```
 cheat spawnpickup AGID_HighTower_Plum_KineticAbs
