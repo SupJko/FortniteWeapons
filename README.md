@@ -110,7 +110,7 @@ cheat spawnpickup AGID_HighTower_HoneyDew_Fist
 ```
 ##
 
-<img src="" alt= “https://media.discordapp.net/attachments/1112312558297292833/1112344096258928640/image.png” width="250" height="50"> Doctor Doom's Mystical Bomb (Playlist Item)
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1112344096258928640/image.png" alt= “” width="250" height="50"> Doctor Doom's Mystical Bomb (Playlist Item)
 
 ```
 cheat spawnpickup AGID_HighTower_Date_BallLightning
