@@ -105,10 +105,16 @@ cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle.Valet_BasicCar_Vehicle_C
 #
 ### • Funny Stuff
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2fea277d-540b-42af-b152-782940dc49ef/ddo3peq-63938573-090b-4bd7-acc6-228ed31e95d1.png" alt= “” width="100" height="100"> StormKing
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2fea277d-540b-42af-b152-782940dc49ef/ddo3peq-63938573-090b-4bd7-acc6-228ed31e95d1.png" alt= “” width="100" height="100"> StormKing (BATTLE ROYALE)
 
 ```
 cheat summon /Game/Athena/DADBRO/DADBRO_Pawn.DADBRO_Pawn_C
+```
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2fea277d-540b-42af-b152-782940dc49ef/ddo3peq-63938573-090b-4bd7-acc6-228ed31e95d1.png" alt= “” width="100" height="100"> StormKing (SAVE THE WORLD)
+
+```
+cheat summon /Game/Characters/Enemies/DUDEBRO/Blueprints/DUDEBRO_Pawn.DUDEBRO_Pawn_C
 ```
 
 <img src="https://static.wikia.nocookie.net/fortnite/images/3/37/Supply_Drop_-_Chests_-_Fortnite.png" alt= “” width="100" height="100"> SupplyDrop
