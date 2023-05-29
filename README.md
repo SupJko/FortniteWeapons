@@ -1,5 +1,56 @@
 # Fortnite WIDs & AGIDs
 
+# Every Versions (some)
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/ea/Laser_rifle_icon.png/" alt= “” width="50" height="50"> Zapotron
+
+```
+cheat spawnpickup WID_Sniper_AMR_SR_Crystal_T05
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/e1/Jetpack_icon.png/" alt= “” width="50" height="50"> JetPack (Mythic) (Infinite)
+
+```
+cheat spawnpickup AGID_JetPack+_Junior
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/1/1b/ThanosInfinityGauntlet.png" alt= “” width="50" height="50"> Infinity Gauntlet
+
+```
+cheat spawnpickup AGID_CarminePack
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/0/0c/Upgrade_Bench_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> Upgrade Bench
+
+```
+cheat spawnpickup AGID_Wumba
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/3/38/InfinityBlade.png" alt= “” width="50" height="50"> Infinity Blade
+
+```
+cheat spawnpickup AGID_Sword
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/3/36/Thor%27s_Storbreakericon.png" alt= “” width="50" height="50"> Thor's Stormbreaker
+
+```
+cheat spawnpickup AGID_AshtonPack_Turbo
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/6/63/CaptainAmerica%27sShield.png" alt= “” width="50" height="50"> Captain America's Shield
+
+```
+cheat spawnpickup AGID_AshtonPack_Chicago
+```
+##
+
 # 12.61
 Kinda the same things but who asked
 ### • Weapons & Consumables
@@ -140,55 +191,6 @@ cheat spawnpickup WID_Boss_Adventure_GH
 
 ```
 cheat spawnpickup WID_Boss_Adventure_AR
-```
-##
-
-<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/ea/Laser_rifle_icon.png/" alt= “” width="50" height="50"> Zapotron
-
-```
-cheat spawnpickup WID_Sniper_AMR_SR_Crystal_T05
-```
-##
-
-<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/e1/Jetpack_icon.png/" alt= “” width="50" height="50"> JetPack (Mythic) (Infinite)
-
-```
-cheat spawnpickup AGID_JetPack+_Junior
-```
-##
-
-<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/1/1b/ThanosInfinityGauntlet.png" alt= “” width="50" height="50"> Infinity Gauntlet
-
-```
-cheat spawnpickup AGID_CarminePack
-```
-##
-
-<img src="https://static.wikia.nocookie.net/fortnite/images/0/0c/Upgrade_Bench_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> Upgrade Bench
-
-```
-cheat spawnpickup AGID_Wumba
-```
-##
-
-<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/3/38/InfinityBlade.png" alt= “” width="50" height="50"> Infinity Blade
-
-```
-cheat spawnpickup AGID_Sword
-```
-##
-
-<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/3/36/Thor%27s_Storbreakericon.png" alt= “” width="50" height="50"> Thor's Stormbreaker
-
-```
-cheat spawnpickup AGID_AshtonPack_Turbo
-```
-##
-
-<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/6/63/CaptainAmerica%27sShield.png" alt= “” width="50" height="50"> Captain America's Shield
-
-```
-cheat spawnpickup AGID_AshtonPack_Chicago
 ```
 ##
 
