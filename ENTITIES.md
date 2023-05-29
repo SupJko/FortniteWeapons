@@ -1,49 +1,9 @@
 # Fortnite Entities (Blueprints)
 
-# 14.60
+# Every Versions (some)
 Warning: Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
 ### • Hostiles Pawns
 
-<img src="https://static.wikia.nocookie.net/fortnite/images/b/b7/Jules_%28Featured%29_-_Outfit_-_Fortnite.png" alt= “” width="100" height="100"> Jules
-
-```
-cheat summon /Game/Athena/AI/MANG/BP_MangPlayerPawn_Boss_Midas.BP_MangPlayerPawn_Boss_Midas_C
-```
-
-#
-<img src="https://static.wikia.nocookie.net/fortnite/images/e/e6/Shadow_Midas_%28Featured%29_-_Outfit_-_Fortnite.png" alt= “” width="100" height="100"> Shadow Midas
-
-```
-cheat summon
-```
-
-#
-<img src="https://static.wikia.nocookie.net/fortnite/images/5/5a/Brutus.png/revision/latest?cb=20200228114625&path-prefix=fr" alt= “” width="50" height="100"> Brutus
-
-```
-cheat summon 
-```
-
-#
-<img src="" alt= “” width="50" height="50"> Some Shit
-
-```
-cheat summon /Game/Athena/AI/NPCs/Tandem/Hostile/Pawns/BP_PlayerPawn_TandemHostile.BP_PlayerPawn_TandemHostile_C
-```
-
-#
-<img src="" alt= “” width="50" height="50"> PlaceHolder
-
-```
-cheat summon 
-```
-
-#
-<img src="" alt= “” width="50" height="50"> PlaceHolder
-
-```
-cheat summon 
-```
 #
 ### • Zombies
 
@@ -102,6 +62,13 @@ cheat summon /Game/Athena/DrivableVehicles/PushCannon.PushCannon_C
 ```
 cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle.Valet_BasicCar_Vehicle_C
 ```
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/e/ec/Choppa_-_Vehicle_-_Fortnite.png" alt= “” width="100" height="100"> Choppa Helicopter (Buggy lmao)
+
+```
+cheat summon Hoagie/HoagieVehicle.HoagieVehicle_C
+```
+
 #
 ### • Funny Stuff
 
