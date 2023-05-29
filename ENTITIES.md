@@ -66,7 +66,7 @@ cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle.Valet_BasicCar_Vehicle_C
 <img src="https://static.wikia.nocookie.net/fortnite/images/e/ec/Choppa_-_Vehicle_-_Fortnite.png" alt= “” width="100" height="100"> Choppa Helicopter (Buggy lmao)
 
 ```
-cheat summon Hoagie/HoagieVehicle.HoagieVehicle_C
+cheat summon /Hoagie/HoagieVehicle.HoagieVehicle_C
 ```
 
 #
