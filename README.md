@@ -1,10 +1,66 @@
 # Fortnite WIDs & AGIDs
 
+# 12.61
+Kinda the same things but who asked
+### • Weapons & Consumables
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/9/99/Midas-Drum-Gun.png" alt= “” width="50" height="50"> Midas' Drum Gun
+
+```
+cheat spawnpickup WID_Boss_Midas
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/2/2f/Heavy_Assault_Rifle_%28High_Tier%29_-_Weapon_-_Fortnite.png/" alt= “” width="50" height="50"> Meowscle's Peow Peow Rifle
+
+```
+cheat spawnpickup WID_Boss_Meow_HA
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/f/f4/Minigun_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Brutus' Minigun
+
+```
+cheat spawnpickup WID_Boss_Hos_MG
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/5/5c/Jules%27_Glider_Gun_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Jules' Glider Gun
+
+```
+cheat spawnpickup WID_Boss_Tina
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/6/6c/TNTina%27s_Ka-Boom_Bow_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> TNTina's Ka-Boom Bow
+
+```
+cheat spawnpickup WID_Boss_GhostMidas
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/2/29/Grappler_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Skye's Grappler
+
+```
+cheat spawnpickup WID_Boss_Adventure_GH
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/e/ec/Assault_Rifle_%28High_Level%29_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Skye's Assault Rifle
+
+```
+cheat spawnpickup WID_Boss_Adventure_AR
+```
+##
+
 # 14.60
 Warning: Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
 ### • Weapons & Consumables
 
 <img src="https://static.wikia.nocookie.net/fortnite/images/b/b0/Stark_Industries_Jetpack_-_Item_-_Fortnite.png/" alt= “” width="50" height="50"> Stark Jetpack
+
+
+
 
 
 
