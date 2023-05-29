@@ -78,9 +78,18 @@ cheat spawnpickup WID_Boss_Hos_MG
 
 <img src="https://static.wikia.nocookie.net/fortnite/images/6/6c/TNTina%27s_Ka-Boom_Bow_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> TNTina's Ka-Boom Bow
 
+Weapon
+
 ```
-cheat spawnpickup WID_Boss_GhostMidas
+cheat spawnpickup WID_Boss_Tina
 ```
+
+Gadget (This one for full experience)
+
+```
+cheat spawnpickup AGID_Boss_Tina
+```
+
 ##
 
 <img src="https://static.wikia.nocookie.net/fortnite/images/2/29/Grappler_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Skye's Grappler
