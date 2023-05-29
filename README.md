@@ -7,13 +7,7 @@
 ```
 cheat spawnpickup WID_Sniper_AMR_SR_Crystal_T05
 ```
-##
 
-<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/e1/Jetpack_icon.png/" alt= “” width="50" height="50"> JetPack (Mythic) (Infinite)
-
-```
-cheat spawnpickup AGID_JetPack+_Junior
-```
 ##
 
 <img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/1/1b/ThanosInfinityGauntlet.png" alt= “” width="50" height="50"> Infinity Gauntlet
@@ -217,10 +211,11 @@ cheat spawnpickup WID_Athena_Grenade_Molotov
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> 
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/e1/Jetpack_icon.png/" alt= “” width="50" height="50"> JetPack (Mythic) (Infinite)
 
 ```
-cheat spawnpickup 
+cheat spawnpickup AGID_JetPack+_Junior
 ```
 ##
 
