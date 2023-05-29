@@ -25,13 +25,6 @@ cheat spawnpickup WID_Boss_Hos_MG
 ```
 ##
 
-<img src="https://static.wikia.nocookie.net/fortnite/images/5/5c/Jules%27_Glider_Gun_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Jules' Glider Gun
-
-```
-cheat spawnpickup WID_Boss_Tina
-```
-##
-
 <img src="https://static.wikia.nocookie.net/fortnite/images/6/6c/TNTina%27s_Ka-Boom_Bow_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> TNTina's Ka-Boom Bow
 
 ```
