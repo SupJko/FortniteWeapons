@@ -1,6 +1,6 @@
 # Fortnite WIDs & AGIDs
 
-# Every Versions (some)
+### • Every Versions (some)
 
 <img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/ea/Laser_rifle_icon.png/" alt= “” width="50" height="50"> Zapotron
 
@@ -99,6 +99,58 @@ cheat spawnpickup WID_Boss_Adventure_GH
 cheat spawnpickup WID_Boss_Adventure_AR
 ```
 ##
+
+### • Papaya (Party Royale)
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/a/ac/PapayaBow-L.png" alt= “” width="50" height="50"> Plunger Bow
+
+```
+cheat spawnpickup WID_Bow_Plunger
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/4/4d/TeamBurger.png" alt= “” width="50" height="50"> Burger
+
+```
+cheat spawnpickup WID_Grenade_Burger
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/0/03/TomatoheadChallenges.png" alt= “” width="50" height="50"> Tomato
+
+```
+cheat spawnpickup WID_Grenade_Tomato
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/0/0b/Purple_Paint_Grenade_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> Purple Paint Grenade
+
+```
+cheat spawnpickup WID_Grenade_Paint_Blue
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/2/29/Orange_Paint_Grenade_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> Orange Paint Grenade
+
+```
+cheat spawnpickup WID_Grenade_Paint_Red
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/8/87/PapayaLauncher-L.png" alt= “” width="50" height="50"> Purple Paint Launcher  
+
+```
+cheat spawnpickup WID_PaintLauncher_Blue
+```
+
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/7/75/T-Icon-Weapons-PapayaLauncher-Orange-L.png" alt= “” width="50" height="50"> Orange Paint Launcher  
+
+```
+cheat spawnpickup WID_PaintLauncher_Red
+```
+##
+
 
 # 14.60
 Warning: Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
