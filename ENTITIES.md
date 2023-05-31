@@ -96,4 +96,11 @@ cheat summon /Game/Athena/SupplyDrops/AthenaSupplyDrop.AthenaSupplyDrop_C
 cheat summon /Game/Athena/Items/ForagedItems/LowGravity/CBGA_LowGravity.CBGA_LowGravity_C
 ```
 
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1113440091659059221/T_UI_MarkerGlitch.png" alt= “” width="100" height="100"> "Glitched" Consumable
+
+```
+cheat summon /Game/Athena/Items/ForagedItems/Glitch/CBGA_Glitch.CBGA_Glitch_C
+```
+
+
 
