@@ -100,6 +100,13 @@ cheat spawnpickup WID_Boss_Adventure_AR
 ```
 ##
 
+<img src="https://static.wikia.nocookie.net/fortnite/images/2/2d/Kingsman_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Kingsman Umbrella
+
+```
+cheat spawnpickup WID_UncleBrolly
+```
+##
+
 ### • Papaya (Party Royale)
 
 <img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/a/ac/PapayaBow-L.png" alt= “” width="50" height="50"> Plunger Bow
