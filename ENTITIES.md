@@ -90,4 +90,10 @@ cheat summon /Game/Characters/Enemies/DUDEBRO/Blueprints/DUDEBRO_Pawn.DUDEBRO_Pa
 cheat summon /Game/Athena/SupplyDrops/AthenaSupplyDrop.AthenaSupplyDrop_C
 ```
 
+<img src="https://static.wikia.nocookie.net/fortnite/images/b/b0/Hop_Rock_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Gravity Stones
+
+```
+cheat summon /Game/Athena/Items/ForagedItems/LowGravity/CBGA_LowGravity.CBGA_LowGravity_C
+```
+
 
