@@ -342,7 +342,7 @@ cheat spawnpickup WID_Sniper_Dragon_SR_Ore_T05
 <img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/5/50/Wall_spikes_icon.png" alt= “” width="50" height="50"> Wall spikes
 
 ```
-cheat spawnpickup TID_Wall_Wood_Spikes_VR_T05
+cheat spawnpickup TID_Wall_Wood_Spikes_VR_T05 10
 ```
 
 ##
@@ -350,7 +350,7 @@ cheat spawnpickup TID_Wall_Wood_Spikes_VR_T05
 <img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/b/b5/Wall_lights_icon.png/" alt= “” width="50" height="50"> Wall Lights
 
 ```
-cheat spawnpickup TID_Wall_Light_VR_T05
+cheat spawnpickup TID_Wall_Light_VR_T05 10
 ```
 
 ##
@@ -358,7 +358,7 @@ cheat spawnpickup TID_Wall_Light_VR_T05
 <img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/b/bd/Wall_launcher_icon.png" alt= “” width="50" height="50"> Wall Launcher
 
 ```
-cheat spawnpickup TID_Wall_Launcher_VR_T05
+cheat spawnpickup TID_Wall_Launcher_VR_T05 10
 ```
 
 ##
@@ -366,7 +366,7 @@ cheat spawnpickup TID_Wall_Launcher_VR_T05
 <img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/9/98/Wall_dynamo_icon.png" alt= “” width="50" height="50"> Wall Dynamo
 
 ```
-cheat spawnpickup TID_Wall_Electric_VR_T05
+cheat spawnpickup TID_Wall_Electric_VR_T05 10
 ```
 
 ##
@@ -374,7 +374,7 @@ cheat spawnpickup TID_Wall_Electric_VR_T05
 <img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/e1/Ceiling_zapper_icon.png" alt= “” width="50" height="50"> Ceiling Zapper
 
 ```
-cheat spawnpickup TID_Ceiling_Electric_Single_VR_T05
+cheat spawnpickup TID_Ceiling_Electric_Single_VR_T05 10
 ```
 
 ##
@@ -382,7 +382,7 @@ cheat spawnpickup TID_Ceiling_Electric_Single_VR_T05
 <img src="https://static.wikia.nocookie.net/fortnite/images/4/4e/Ceiling_Gas_Trap_Schematic_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Ceiling Gas Trap
 
 ```
-cheat spawnpickup TID_Ceiling_Gas_SR_T05
+cheat spawnpickup TID_Ceiling_Gas_SR_T05 10
 ```
 
 ##
@@ -411,7 +411,7 @@ cheat spawnpickup AmmoDataBulletsLight 9999
 <img src="https://static.wikia.nocookie.net/fortnite/images/b/be/Medium_Bullets_-_Ammo_-_Fortnite.png" alt= “” width="50" height="50"> Ammo: Medium Bullets
 
 ```
-cheat spawnpickup AmmoDataBulletsMedium
+cheat spawnpickup AmmoDataBulletsMedium 9999
 ```
 
 ##
@@ -420,7 +420,7 @@ cheat spawnpickup AmmoDataBulletsMedium
 <img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/5/5a/Energy_Cell.png/" alt= “” width="50" height="50"> Ammo: Energy Cell
 
 ```
-cheat spawnpickup AmmoDataEnergyCell
+cheat spawnpickup AmmoDataEnergyCell 9999
 ```
 
 ##
@@ -429,7 +429,7 @@ cheat spawnpickup AmmoDataEnergyCell
 <img src="https://static.wikia.nocookie.net/fortnite/images/2/27/Shells_-_Ammo_-_Fortnite.png" alt= “” width="50" height="50"> Ammo: Shells 'n' Slugs
 
 ```
-cheat spawnpickup AmmoDataShells
+cheat spawnpickup AmmoDataShells 9999
 ```
 
 
