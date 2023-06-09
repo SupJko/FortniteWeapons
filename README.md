@@ -158,6 +158,144 @@ cheat spawnpickup WID_PaintLauncher_Red
 ```
 ##
 
+# 15.00 - 18.40
+
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/8/8d/Sideways_Scythe_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Sideways Scythe
+
+Mythic
+
+```
+cheat spawnpickup WID_PowerUp_Scythe_UR
+```
+
+Legendary
+
+```
+cheat spawnpickup WID_PowerUp_Scythe_SR
+```
+
+##
+<img src="https://static.wikia.nocookie.net/fortnite/images/9/90/Sideways_Minigun_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Sideways Minigun
+
+
+```
+cheat spawnpickup WID_Assault_LMG_Powerup_Athena_UR
+```
+
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/2/2b/Sideways_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Sideways Rifle
+
+```
+cheat spawnpickup WID_Rifle_Powerup_Athena_UR
+```
+
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/6/62/Storm-flip-version1.png/" alt= “” width="50" height="50"> Port-a-Portal
+
+```
+cheat spawnpickup WID_DeployablePortal
+```
+
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/0/06/Icy_Grappler_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> Icy Grappler
+
+```
+cheat spawnpickup WID_Athena_IcyGrapple
+```
+
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/d/da/Rail_Gun_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Rail Gun
+
+```
+cheat spawnpickup WID_Sniper_ReactorGrade_Athena_SR_Ore_T03
+```
+
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/1/14/Kymera_Ray_Gun_-_Weapon_-_Fortnite.png/" alt= “” width="50" height="50"> Ray Gun
+
+```
+cheat spawnpickup WID_Assault_LlamaRoaster_Boss
+```
+
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/3/30/Grab-itron_-_Weapon_-_Fortnite.png/" alt= “” width="50" height="50"> Grab-Itron
+
+```
+cheat spawnpickup WID_GravyGoblinV2_Athena
+```
+
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/e/ec/Alien_Nanites_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> Alien Nanites
+
+```
+cheat spawnpickup WID_Goop
+```
+
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/5/50/Pulse_Rifle_-_Weapon_-_Fortnite.png/" alt= “” width="50" height="50"> Exotic Pusle Rifle
+
+```
+cheat spawnpickup WID_Assault_PastaRipper_E
+```
+
+##
+
+<img src="https://media.discordapp.net/attachments/1112312558297292833/1116680826554433587/T-Icon-Emotes-E-JazzHands.png" alt= “” width="50" height="50"> Mole Empty Hands
+
+```
+cheat spawnpickup WID_Mole_EmptyHands
+```
+
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+
+##
 
 # 14.60
 Warning: Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
