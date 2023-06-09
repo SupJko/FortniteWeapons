@@ -265,29 +265,65 @@ cheat spawnpickup WID_Athena_Headband_Kabob
 
 ##
 
-<img src="" alt= “” width="50" height="50"> 
+<img src="https://media.fortniteapi.io/images/232abc29eb5cd13d77189eed25aaadbd/transparent.png" alt= “” width="50" height="50"> ("Harvesting Tool", Mole Task Item) Melee fists??
 
 ```
-cheat spawnpickup 
-```
-
-##
-
-<img src="" alt= “” width="50" height="50"> 
-
-```
-cheat spawnpickup 
+cheat spawnpickup WID_Melee_Fists
 ```
 
 ##
 
-<img src="" alt= “” width="50" height="50"> 
+<img src="https://static.wikia.nocookie.net/fortnite/images/e/e8/Witch_Broom_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> ("Harvesting Tool", Mole Task Item) ?????
 
 ```
-cheat spawnpickup 
+cheat spawnpickup WID_Mole_Broom
 ```
 
 ##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/f/f4/Minigun_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> ("Brutus Minigun", Mole Task Item) Minigun
+
+```
+cheat spawnpickup WID_Boss_Hos_MG_Mole 
+```
+
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/d/de/Suppressed_Pistol_-_Weapon_-_Fortnite.png/" alt= “” width="50" height="50"> ("Water Gun", Mole Task Item) Washing Gun
+
+```
+cheat spawnpickup WID_Pistol_Wash
+```
+
+##
+
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/d/d0/Carnage_Symbiote_-_Item_-_Fortnite.png/" alt= “” width="50" height="50"> Carnage Symbiote
+
+```
+cheat spawnpickup AGID_Clash_Red_Athena
+```
+
+##
+
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/d/d7/Venom_Symbiote_-_Item_-_Fortnite.png/" alt= “” width="50" height="50"> Venom Symbiote
+
+```
+cheat spawnpickup AGID_Clash_Black_Athena
+```
+
+##
+
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/3/31/Flint-Knock_Pistol_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Flight-Knock Pistol
+
+```
+cheat spawnpickup Builder_WID_YEETknock_UR
+```
+
+##
+
 
 <img src="" alt= “” width="50" height="50"> 
 
