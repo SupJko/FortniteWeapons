@@ -257,10 +257,10 @@ cheat spawnpickup WID_Mole_EmptyHands
 
 ##
 
-<img src="" alt= “” width="50" height="50"> 
+<img src="https://static.wikia.nocookie.net/fortnite/images/0/07/Paper_Bomb_Kunai_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> Paper Bomb Kunai
 
 ```
-cheat spawnpickup 
+cheat spawnpickup WID_Athena_Headband_Kabob
 ```
 
 ##
