@@ -160,6 +160,21 @@ cheat spawnpickup WID_PaintLauncher_Red
 
 # 15.00 - 18.40
 
+<img src="https://static.wikia.nocookie.net/fortnite/images/1/11/Bars_%28Large%29_-_Currency_-_Fortnite.png" alt= “” width="50" height="50"> Gold Bars
+
+```
+cheat spawnpickup Athena_WadsItemData
+```
+
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/f/f5/Hunter%27s_Cloak_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> Hunter's Cloak
+
+```
+cheat spawnpickup WID_Athena_Whiff
+```
+
+##
 
 <img src="https://static.wikia.nocookie.net/fortnite/images/8/8d/Sideways_Scythe_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Sideways Scythe
 
