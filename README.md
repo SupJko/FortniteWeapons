@@ -149,7 +149,7 @@ cheat spawnpickup WID_Grenade_Paint_Red
 ```
 cheat spawnpickup WID_PaintLauncher_Blue
 ```
-
+##
 
 <img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/7/75/T-Icon-Weapons-PapayaLauncher-Orange-L.png" alt= “” width="50" height="50"> Orange Paint Launcher  
 
