@@ -374,7 +374,7 @@ cheat spawnpickup WID_Athena_MolotovGun_FA
 ```
 ##
 
-<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1144186986853318686/Fzo7hC7XoAE-bkn.png" alt= “” width="100" height="100"> 
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1144186986853318686/Fzo7hC7XoAE-bkn.png" alt= “” width="100" height="100"> WildWasp Jar
 
 ```
 cheat spawnpickup WID_Athena_Swarm_Grenade
