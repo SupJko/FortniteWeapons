@@ -374,45 +374,105 @@ cheat spawnpickup WID_Athena_MolotovGun_FA
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> 
+<img src="https://media.discordapp.net/attachments/1102820924752937020/1144186986853318686/Fzo7hC7XoAE-bkn.png" alt= “” width="50" height="50"> 
 
 ```
-cheat spawnpickup 
-```
-##
-
-<img src="" alt= “” width="50" height="50"> 
-
-```
-cheat spawnpickup 
+cheat spawnpickup WID_Athena_Swarm_Grenade
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> 
+<img src="https://static.wikia.nocookie.net/fortnite/images/f/fa/Cybertron_Cannon_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Cybertron Cannon
 
 ```
-cheat spawnpickup 
-```
-##
-
-<img src="" alt= “” width="50" height="50"> 
-
-```
-cheat spawnpickup 
+cheat spawnpickup AGID_AloeCrouton_Launcher_Athena
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> 
+<img src="https://static.wikia.nocookie.net/fortnite/images/8/83/Falcon_Scout_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> Falcon Scout
 
 ```
-cheat spawnpickup 
+cheat spawnpickup AGID_ScoutDrone
 ```
 ##
 
-<img src="" alt= “” width="50" height="50"> 
+<img src="https://static.wikia.nocookie.net/fortnite/images/e/e9/Cloak_Gauntlets_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> Cloak Gauntlets
 
 ```
-cheat spawnpickup 
+cheat spawnpickup WID_Chrono_Cloak
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/4/4c/Kinetic_Boomerang_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Kinetic Boomerang
+
+```
+cheat spawnpickup WID_Chrono_AncientWeapon
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/c/c9/Shockwave_Hammer_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Shockwave Hammer
+
+```
+cheat spawnpickup WID_Muster_ShockwaveMace
+```
+
+```
+cheat spawnpickup WID_Muster_ShockwaveMace_Mythic
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/f/f1/Kinetic_Blade_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Kinetic Blade
+
+```
+cheat spawnpickup WID_Melee_Katana
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/8/88/Explosive_Goo_Gun_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Explosive Goo Gun
+
+```
+cheat spawnpickup WID_NitroglycerineGun
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/e/eb/Lock_On_Pistol_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Lock On Pistol
+
+```
+cheat spawnpickup WID_Pistol_AutoAim
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/3/34/Ripsaw_Launcher_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Ripsaw Launcher
+
+```
+cheat spawnpickup WID_Sawblade_Athena
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/7/77/Explosive_Repeater_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Explosive Repeater Rifle
+
+```
+cheat spawnpickup WID_Sniper_ExplosiveRepeater_Athena_UR
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/8/8b/Ex-Caliber_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="50" height="50"> Ex-Caliber Rifle
+
+```
+cheat spawnpickup WID_Sniper_NoScope_ExSword_Athena_UR_EmblemBoss
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/6/66/Guardian_Shield_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> Guardian Shield
+
+```
+cheat spawnpickup WID_Athena_ShieldWeapon
+```
+##
+
+<img src="https://static.wikia.nocookie.net/fortnite/images/6/63/Slap_Splash_-_Item_-_Fortnite.png" alt= “” width="50" height="50"> Slap Spash
+
+```
+cheat spawnpickup WID_Chrono_ExoticSlapSplash
 ```
 ##
 
