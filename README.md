@@ -346,7 +346,76 @@ cheat spawnpickup Builder_WID_YEETknock_UR
 cheat spawnpickup 
 ```
 
+# 20.00 - 25.30
+### • Weapons & Consumables
+
+<img src="" alt= “” width="50" height="50"> Wheel Grenade
+
+```
+cheat spawnpickup WID_WheelGrenade
+```
 ##
+
+<img src="" alt= “” width="50" height="50"> BackPack Minigun
+
+```
+cheat spawnpickup WID_Assault_Chrono_BackPackMiniGun_Athena_R
+```
+##
+
+<img src="" alt= “” width="50" height="50"> FireFly Launcher
+
+```
+cheat spawnpickup WID_Athena_MolotovGun
+```
+
+```
+cheat spawnpickup WID_Athena_MolotovGun_FA
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
+<img src="" alt= “” width="50" height="50"> 
+
+```
+cheat spawnpickup 
+```
+##
+
 
 # 14.60
 Warning: Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
