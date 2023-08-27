@@ -339,16 +339,6 @@ cheat spawnpickup Builder_WID_YEETknock_UR
 
 ##
 
-
-<img align="left" src="" alt= “” width="100" height="100"> 
-
-```
-cheat spawnpickup 
-```
-
-# 20.00 - 25.30
-### • Weapons & Consumables
-
 <img align="left" src="" alt= “” width="100" height="100"> Wheel Grenade
 
 ```
@@ -373,6 +363,10 @@ cheat spawnpickup WID_Athena_MolotovGun
 cheat spawnpickup WID_Athena_MolotovGun_FA
 ```
 ##
+
+
+# 20.00 - 25.30
+### • Weapons & Consumables
 
 <img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1144186986853318686/Fzo7hC7XoAE-bkn.png" alt= “” width="100" height="100"> WildWasp Jar
 
@@ -476,6 +470,78 @@ cheat spawnpickup WID_Chrono_ExoticSlapSplash
 ```
 ##
 
+# 26.00
+### • Weapons & Consumables
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/7/76/Rocket_Ram_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Rocket Ram
+
+```
+cheat spawnpickup WID_RocketRam
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/84/Crash_Pad_Jr._-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Crash Pad Jr.
+
+```
+cheat spawnpickup WID_Athena_AppleSunSmall
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/d0/Business_Turret_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Buisness Turret
+
+```
+cheat spawnpickup WID_Athena_Sentry_Turret_Deployable
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/9/99/Midas-Drum-Gun.png" alt= “” width="100" height="100"> Midas' Drum Gun
+
+```
+cheat spawnpickup WID_Boss_Midas
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/6/6c/TNTina%27s_Ka-Boom_Bow_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> TNTTina's Ka-Boom Bow
+
+```
+cheat spawnpickup WID_Boss_Tina_Primal
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1145504241989984346/T-T-Icon-BR-Explosive-Grenade-EMP-L.png" alt= “” width="100" height="100"> Shield Breaker EMP
+
+```
+cheat spawnpickup WID_Athena_Grenade_EMP
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1145504513818644480/T-Icon-Weapons-Shotgun-Hopscotch-L.png" alt= “” width="100" height="100"> Infiltrator Pump Shotgun
+
+```
+cheat spawnpickup WID_Shotgun_HopScotch_Athena_UR
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/8c/Scoped_Burst_SMG_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Scoped Burst SMG
+
+```
+cheat spawnpickup WID_SMG_RedDot_Athena_UR
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1145505200140988477/T-Icon-Weapons-Rifle-Assult-FlipMag-L.png" alt= “” width="100" height="100"> Twin Mag Assault Rifle
+
+```
+cheat spawnpickup WID_Assault_FlipMag_Athena_UR
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/b/be/Radio_Tower_Keycard_-_Item_-_Fortnite.png/revision/latest?cb=20230825090943" alt= “” width="100" height="100"> Forecast Tower Access Card
+
+```
+cheat spawnpickup AGID_MMObj_RadioTowerKeycard
+```
+##
 
 # 14.60
 Warning: Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
