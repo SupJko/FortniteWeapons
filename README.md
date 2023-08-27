@@ -339,6 +339,9 @@ cheat spawnpickup Builder_WID_YEETknock_UR
 
 ##
 
+# 20.00 - 25.30
+### • Weapons & Consumables
+
 <img align="left" src="" alt= “” width="100" height="100"> Wheel Grenade
 
 ```
@@ -363,10 +366,6 @@ cheat spawnpickup WID_Athena_MolotovGun
 cheat spawnpickup WID_Athena_MolotovGun_FA
 ```
 ##
-
-
-# 20.00 - 25.30
-### • Weapons & Consumables
 
 <img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1144186986853318686/Fzo7hC7XoAE-bkn.png" alt= “” width="100" height="100"> WildWasp Jar
 
