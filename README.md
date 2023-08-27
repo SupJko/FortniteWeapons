@@ -1,6 +1,9 @@
 # Fortnite WIDs & AGIDs
 
-### • Every Versions (some)
+> **Note**
+> Made for Project Reboot, also works with CraniumV1.
+
+### • Items
 
 <img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/ea/Laser_rifle_icon.png/" alt= “” width="100" height="100"> Zapotron
 
