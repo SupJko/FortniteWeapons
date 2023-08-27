@@ -1,4 +1,4 @@
-# Fortnite WIDs & AGIDs
+# FortIdidThisCusIwasBored
 
 > **Note**
 > Made for Project Reboot, also works with CraniumV1.
