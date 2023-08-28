@@ -621,7 +621,7 @@ cheat spawnpickup WID_UncleBrolly
 ```
 ##
 
-### • Papaya (Party Royale)
+# Party Royale
 
 <img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/a/ac/PapayaBow-L.png" alt= “” width="100" height="100"> Plunger Bow
 
