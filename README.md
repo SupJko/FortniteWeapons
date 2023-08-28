@@ -5,6 +5,7 @@
 
 ### • Items
 
+# Most of the versions
 <img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/ea/Laser_rifle_icon.png/" alt= “” width="100" height="100"> Zapotron
 
 ```
@@ -674,7 +675,7 @@ cheat spawnpickup WID_PaintLauncher_Red
 
 
 
-### • SuperPowers LTM 14.30
+### • SuperPowers & LTM 14.30
 
 
 <img align="left" src="https://media.discordapp.net/attachments/1112312558297292833/1112378952552558672/image.png" alt= “” width="250" height="50"> Venom's Smash & Grab (Playlist Item)
