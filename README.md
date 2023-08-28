@@ -169,21 +169,21 @@ cheat spawnpickup AGID_MMObj_RadioTowerKeycard
 # 20.00 - 25.30
 ### • Weapons & Consumables
 
-<img align="left" src="" alt= “” width="100" height="100"> Wheel Grenade
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1145516725010432050/T_UI_IconLibrary_wheel_128.png" alt= “” width="100" height="100"> Wheel Grenade
 
 ```
 cheat spawnpickup WID_WheelGrenade
 ```
 ##
 
-<img align="left" src="" alt= “” width="100" height="100"> BackPack Minigun
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1145516883592888393/T_Icon_Weapons_SK_BackPackMiniGun_Placeholder_L.png" alt= “” width="100" height="100"> BackPack Minigun
 
 ```
 cheat spawnpickup WID_Assault_Chrono_BackPackMiniGun_Athena_R
 ```
 ##
 
-<img align="left" src="" alt= “” width="100" height="100"> FireFly Launcher
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1145516991860457512/T_UI_IconLibrary_campfire_128.png" alt= “” width="100" height="100"> FireFly Launcher
 
 ```
 cheat spawnpickup WID_Athena_MolotovGun
