@@ -65,6 +65,20 @@ cheat spawnpickup AGID_AshtonPack_Chicago
 ```
 ##
 
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/f/fa/Remote_explosives_icon.png" alt= “” width="100" height="100"> Remote Explosives
+
+```
+cheat spawnpickup Athena_C4
+```
+##
+
+<img align="left" src="https://static1.millenium.org/articles/8/35/51/58/@/1242957-la-bombe-boogie-woogie-article_m-2.png" alt= “” width="100" height="100"> Boogie Bomb
+
+```
+cheat spawnpickup Athena_DanceGrenade
+```
+##
+
 # 26.00
 ### • Weapons & Consumables
 
