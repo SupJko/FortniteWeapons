@@ -110,7 +110,7 @@ cheat spawnpickup WID_Athena_AppleSunSmall
 ```
 ##
 
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/d0/Business_Turret_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Buisness Turret
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/d0/Business_Turret_-_Item_-_Fortnite.png/revision/latest?cb=20230825090524" alt= “” width="100" height="100"> Buisness Turret
 
 ```
 cheat spawnpickup WID_Athena_Sentry_Turret_Deployable
