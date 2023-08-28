@@ -48,9 +48,29 @@ cheat spawnpickup AGID_AshtonPack_Chicago
 ```
 ##
 
-# 12.61
-Kinda the same things but who asked
+# 26.00
 ### • Weapons & Consumables
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/7/76/Rocket_Ram_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Rocket Ram
+
+```
+cheat spawnpickup WID_RocketRam
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/84/Crash_Pad_Jr._-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Crash Pad Jr.
+
+```
+cheat spawnpickup WID_Athena_AppleSunSmall
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/d0/Business_Turret_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Buisness Turret
+
+```
+cheat spawnpickup WID_Athena_Sentry_Turret_Deployable
+```
+##
 
 <img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/9/99/Midas-Drum-Gun.png" alt= “” width="100" height="100"> Midas' Drum Gun
 
@@ -59,105 +79,175 @@ cheat spawnpickup WID_Boss_Midas
 ```
 ##
 
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/2/2f/Heavy_Assault_Rifle_%28High_Tier%29_-_Weapon_-_Fortnite.png/" alt= “” width="100" height="100"> Meowscle's Peow Peow Rifle
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/6/6c/TNTina%27s_Ka-Boom_Bow_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> TNTTina's Ka-Boom Bow
 
 ```
-cheat spawnpickup WID_Boss_Meow_HA
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/f/f4/Minigun_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Brutus' Minigun
-
-```
-cheat spawnpickup WID_Boss_Hos_MG
+cheat spawnpickup WID_Boss_Tina_Primal
 ```
 ##
 
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/6/6c/TNTina%27s_Ka-Boom_Bow_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> TNTina's Ka-Boom Bow
-
-Weapon
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1145504241989984346/T-T-Icon-BR-Explosive-Grenade-EMP-L.png" alt= “” width="100" height="100"> Shield Breaker EMP
 
 ```
-cheat spawnpickup WID_Boss_Tina
-```
-
-Gadget (This one for full experience)
-
-```
-cheat spawnpickup AGID_Boss_Tina
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/2/29/Grappler_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Skye's Grappler
-
-```
-cheat spawnpickup WID_Boss_Adventure_GH
+cheat spawnpickup WID_Athena_Grenade_EMP
 ```
 ##
 
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/e/ec/Assault_Rifle_%28High_Level%29_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Skye's Assault Rifle
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1145504513818644480/T-Icon-Weapons-Shotgun-Hopscotch-L.png" alt= “” width="100" height="100"> Infiltrator Pump Shotgun
 
 ```
-cheat spawnpickup WID_Boss_Adventure_AR
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/2/2d/Kingsman_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Kingsman Umbrella
-
-```
-cheat spawnpickup WID_UncleBrolly
+cheat spawnpickup WID_Shotgun_HopScotch_Athena_UR
 ```
 ##
 
-### • Papaya (Party Royale)
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/a/ac/PapayaBow-L.png" alt= “” width="100" height="100"> Plunger Bow
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/8c/Scoped_Burst_SMG_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Scoped Burst SMG
 
 ```
-cheat spawnpickup WID_Bow_Plunger
+cheat spawnpickup WID_SMG_RedDot_Athena_UR
 ```
 ##
 
-<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/4/4d/TeamBurger.png" alt= “” width="100" height="100"> Burger
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1145505200140988477/T-Icon-Weapons-Rifle-Assult-FlipMag-L.png" alt= “” width="100" height="100"> Twin Mag Assault Rifle
 
 ```
-cheat spawnpickup WID_Grenade_Burger
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/0/03/TomatoheadChallenges.png" alt= “” width="100" height="100"> Tomato
-
-```
-cheat spawnpickup WID_Grenade_Tomato
+cheat spawnpickup WID_Assault_FlipMag_Athena_UR
 ```
 ##
 
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/0/0b/Purple_Paint_Grenade_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Purple Paint Grenade
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/b/be/Radio_Tower_Keycard_-_Item_-_Fortnite.png/revision/latest?cb=20230825090943" alt= “” width="100" height="100"> Forecast Tower Access Card
 
 ```
-cheat spawnpickup WID_Grenade_Paint_Blue
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/2/29/Orange_Paint_Grenade_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Orange Paint Grenade
-
-```
-cheat spawnpickup WID_Grenade_Paint_Red
+cheat spawnpickup AGID_MMObj_RadioTowerKeycard
 ```
 ##
 
-<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/8/87/PapayaLauncher-L.png" alt= “” width="100" height="100"> Purple Paint Launcher  
+# 20.00 - 25.30
+### • Weapons & Consumables
+
+<img align="left" src="" alt= “” width="100" height="100"> Wheel Grenade
 
 ```
-cheat spawnpickup WID_PaintLauncher_Blue
+cheat spawnpickup WID_WheelGrenade
 ```
 ##
 
-<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/7/75/T-Icon-Weapons-PapayaLauncher-Orange-L.png" alt= “” width="100" height="100"> Orange Paint Launcher  
+<img align="left" src="" alt= “” width="100" height="100"> BackPack Minigun
 
 ```
-cheat spawnpickup WID_PaintLauncher_Red
+cheat spawnpickup WID_Assault_Chrono_BackPackMiniGun_Athena_R
+```
+##
+
+<img align="left" src="" alt= “” width="100" height="100"> FireFly Launcher
+
+```
+cheat spawnpickup WID_Athena_MolotovGun
+```
+
+```
+cheat spawnpickup WID_Athena_MolotovGun_FA
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1144186986853318686/Fzo7hC7XoAE-bkn.png" alt= “” width="100" height="100"> WildWasp Jar
+
+```
+cheat spawnpickup WID_Athena_Swarm_Grenade
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/f/fa/Cybertron_Cannon_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Cybertron Cannon
+
+```
+cheat spawnpickup AGID_AloeCrouton_Launcher_Athena
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/83/Falcon_Scout_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Falcon Scout
+
+```
+cheat spawnpickup AGID_ScoutDrone
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/e/e9/Cloak_Gauntlets_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Cloak Gauntlets
+
+```
+cheat spawnpickup WID_Chrono_Cloak
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/4/4c/Kinetic_Boomerang_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Kinetic Boomerang
+
+```
+cheat spawnpickup WID_Chrono_AncientWeapon
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/c/c9/Shockwave_Hammer_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Shockwave Hammer
+
+```
+cheat spawnpickup WID_Muster_ShockwaveMace
+```
+
+```
+cheat spawnpickup WID_Muster_ShockwaveMace_Mythic
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/f/f1/Kinetic_Blade_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Kinetic Blade
+
+```
+cheat spawnpickup WID_Melee_Katana
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/88/Explosive_Goo_Gun_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Explosive Goo Gun
+
+```
+cheat spawnpickup WID_NitroglycerineGun
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/e/eb/Lock_On_Pistol_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Lock On Pistol
+
+```
+cheat spawnpickup WID_Pistol_AutoAim
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/3/34/Ripsaw_Launcher_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Ripsaw Launcher
+
+```
+cheat spawnpickup WID_Sawblade_Athena
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/7/77/Explosive_Repeater_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Explosive Repeater Rifle
+
+```
+cheat spawnpickup WID_Sniper_ExplosiveRepeater_Athena_UR
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/8b/Ex-Caliber_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Ex-Caliber Rifle
+
+```
+cheat spawnpickup WID_Sniper_NoScope_ExSword_Athena_UR_EmblemBoss
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/6/66/Guardian_Shield_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Guardian Shield
+
+```
+cheat spawnpickup WID_Athena_ShieldWeapon
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/6/63/Slap_Splash_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Slap Spash
+
+```
+cheat spawnpickup WID_Chrono_ExoticSlapSplash
 ```
 ##
 
@@ -339,210 +429,6 @@ cheat spawnpickup AGID_Clash_Black_Athena
 ```
 cheat spawnpickup Builder_WID_YEETknock_UR
 ```
-
-##
-
-# 20.00 - 25.30
-### • Weapons & Consumables
-
-<img align="left" src="" alt= “” width="100" height="100"> Wheel Grenade
-
-```
-cheat spawnpickup WID_WheelGrenade
-```
-##
-
-<img align="left" src="" alt= “” width="100" height="100"> BackPack Minigun
-
-```
-cheat spawnpickup WID_Assault_Chrono_BackPackMiniGun_Athena_R
-```
-##
-
-<img align="left" src="" alt= “” width="100" height="100"> FireFly Launcher
-
-```
-cheat spawnpickup WID_Athena_MolotovGun
-```
-
-```
-cheat spawnpickup WID_Athena_MolotovGun_FA
-```
-##
-
-<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1144186986853318686/Fzo7hC7XoAE-bkn.png" alt= “” width="100" height="100"> WildWasp Jar
-
-```
-cheat spawnpickup WID_Athena_Swarm_Grenade
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/f/fa/Cybertron_Cannon_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Cybertron Cannon
-
-```
-cheat spawnpickup AGID_AloeCrouton_Launcher_Athena
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/83/Falcon_Scout_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Falcon Scout
-
-```
-cheat spawnpickup AGID_ScoutDrone
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/e/e9/Cloak_Gauntlets_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Cloak Gauntlets
-
-```
-cheat spawnpickup WID_Chrono_Cloak
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/4/4c/Kinetic_Boomerang_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Kinetic Boomerang
-
-```
-cheat spawnpickup WID_Chrono_AncientWeapon
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/c/c9/Shockwave_Hammer_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Shockwave Hammer
-
-```
-cheat spawnpickup WID_Muster_ShockwaveMace
-```
-
-```
-cheat spawnpickup WID_Muster_ShockwaveMace_Mythic
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/f/f1/Kinetic_Blade_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Kinetic Blade
-
-```
-cheat spawnpickup WID_Melee_Katana
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/88/Explosive_Goo_Gun_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Explosive Goo Gun
-
-```
-cheat spawnpickup WID_NitroglycerineGun
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/e/eb/Lock_On_Pistol_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Lock On Pistol
-
-```
-cheat spawnpickup WID_Pistol_AutoAim
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/3/34/Ripsaw_Launcher_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Ripsaw Launcher
-
-```
-cheat spawnpickup WID_Sawblade_Athena
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/7/77/Explosive_Repeater_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Explosive Repeater Rifle
-
-```
-cheat spawnpickup WID_Sniper_ExplosiveRepeater_Athena_UR
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/8b/Ex-Caliber_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Ex-Caliber Rifle
-
-```
-cheat spawnpickup WID_Sniper_NoScope_ExSword_Athena_UR_EmblemBoss
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/6/66/Guardian_Shield_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Guardian Shield
-
-```
-cheat spawnpickup WID_Athena_ShieldWeapon
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/6/63/Slap_Splash_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Slap Spash
-
-```
-cheat spawnpickup WID_Chrono_ExoticSlapSplash
-```
-##
-
-# 26.00
-### • Weapons & Consumables
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/7/76/Rocket_Ram_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Rocket Ram
-
-```
-cheat spawnpickup WID_RocketRam
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/84/Crash_Pad_Jr._-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Crash Pad Jr.
-
-```
-cheat spawnpickup WID_Athena_AppleSunSmall
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/d0/Business_Turret_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Buisness Turret
-
-```
-cheat spawnpickup WID_Athena_Sentry_Turret_Deployable
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/9/99/Midas-Drum-Gun.png" alt= “” width="100" height="100"> Midas' Drum Gun
-
-```
-cheat spawnpickup WID_Boss_Midas
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/6/6c/TNTina%27s_Ka-Boom_Bow_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> TNTTina's Ka-Boom Bow
-
-```
-cheat spawnpickup WID_Boss_Tina_Primal
-```
-##
-
-<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1145504241989984346/T-T-Icon-BR-Explosive-Grenade-EMP-L.png" alt= “” width="100" height="100"> Shield Breaker EMP
-
-```
-cheat spawnpickup WID_Athena_Grenade_EMP
-```
-##
-
-<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1145504513818644480/T-Icon-Weapons-Shotgun-Hopscotch-L.png" alt= “” width="100" height="100"> Infiltrator Pump Shotgun
-
-```
-cheat spawnpickup WID_Shotgun_HopScotch_Athena_UR
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/8c/Scoped_Burst_SMG_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Scoped Burst SMG
-
-```
-cheat spawnpickup WID_SMG_RedDot_Athena_UR
-```
-##
-
-<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1145505200140988477/T-Icon-Weapons-Rifle-Assult-FlipMag-L.png" alt= “” width="100" height="100"> Twin Mag Assault Rifle
-
-```
-cheat spawnpickup WID_Assault_FlipMag_Athena_UR
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/b/be/Radio_Tower_Keycard_-_Item_-_Fortnite.png/revision/latest?cb=20230825090943" alt= “” width="100" height="100"> Forecast Tower Access Card
-
-```
-cheat spawnpickup AGID_MMObj_RadioTowerKeycard
-```
 ##
 
 # 14.60
@@ -550,11 +436,6 @@ Warning: Some of the items might bug/crash or keep the ability even if the item 
 ### • Weapons & Consumables
 
 <img align="left" src="https://static.wikia.nocookie.net/fortnite/images/b/b0/Stark_Industries_Jetpack_-_Item_-_Fortnite.png/" alt= “” width="100" height="100"> Stark Jetpack
-
-
-
-
-
 
 ```
 cheat spawnpickup AGID_Tomato_Jelly_WithHands
@@ -678,8 +559,122 @@ cheat spawnpickup
 ```
 ##
 
+# 12.61
+Kinda the same things but who asked
+### • Weapons & Consumables
 
-### • SuperPowers
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/9/99/Midas-Drum-Gun.png" alt= “” width="100" height="100"> Midas' Drum Gun
+
+```
+cheat spawnpickup WID_Boss_Midas
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/2/2f/Heavy_Assault_Rifle_%28High_Tier%29_-_Weapon_-_Fortnite.png/" alt= “” width="100" height="100"> Meowscle's Peow Peow Rifle
+
+```
+cheat spawnpickup WID_Boss_Meow_HA
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/f/f4/Minigun_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Brutus' Minigun
+
+```
+cheat spawnpickup WID_Boss_Hos_MG
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/6/6c/TNTina%27s_Ka-Boom_Bow_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> TNTina's Ka-Boom Bow
+
+Weapon
+
+```
+cheat spawnpickup WID_Boss_Tina
+```
+
+Gadget (This one for full experience)
+
+```
+cheat spawnpickup AGID_Boss_Tina
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/2/29/Grappler_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Skye's Grappler
+
+```
+cheat spawnpickup WID_Boss_Adventure_GH
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/e/ec/Assault_Rifle_%28High_Level%29_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Skye's Assault Rifle
+
+```
+cheat spawnpickup WID_Boss_Adventure_AR
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/2/2d/Kingsman_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Kingsman Umbrella
+
+```
+cheat spawnpickup WID_UncleBrolly
+```
+##
+
+### • Papaya (Party Royale)
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/a/ac/PapayaBow-L.png" alt= “” width="100" height="100"> Plunger Bow
+
+```
+cheat spawnpickup WID_Bow_Plunger
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/4/4d/TeamBurger.png" alt= “” width="100" height="100"> Burger
+
+```
+cheat spawnpickup WID_Grenade_Burger
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/0/03/TomatoheadChallenges.png" alt= “” width="100" height="100"> Tomato
+
+```
+cheat spawnpickup WID_Grenade_Tomato
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/0/0b/Purple_Paint_Grenade_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Purple Paint Grenade
+
+```
+cheat spawnpickup WID_Grenade_Paint_Blue
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/2/29/Orange_Paint_Grenade_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Orange Paint Grenade
+
+```
+cheat spawnpickup WID_Grenade_Paint_Red
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/8/87/PapayaLauncher-L.png" alt= “” width="100" height="100"> Purple Paint Launcher  
+
+```
+cheat spawnpickup WID_PaintLauncher_Blue
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/7/75/T-Icon-Weapons-PapayaLauncher-Orange-L.png" alt= “” width="100" height="100"> Orange Paint Launcher  
+
+```
+cheat spawnpickup WID_PaintLauncher_Red
+```
+##
+
+
+
+### • SuperPowers LTM 14.30
 
 
 <img align="left" src="https://media.discordapp.net/attachments/1112312558297292833/1112378952552558672/image.png" alt= “” width="250" height="50"> Venom's Smash & Grab (Playlist Item)
