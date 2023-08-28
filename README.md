@@ -79,6 +79,27 @@ cheat spawnpickup Athena_DanceGrenade
 ```
 ##
 
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/1/13/Assault_Rifle_%28Old%29_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Assault Rifle
+
+```
+cheat spawnpickup WID_Assault_Auto_Athena_R_Ore_T03
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/c/ca/Pump_Shotgun_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Pump Shotgun
+
+```
+cheat spawnpickup WID_Shotgun_Standard_Athena_UC_Ore_T03
+```
+##
+
+<img align="left" src="https://static1.millenium.org/articles/8/35/51/58/@/1242957-la-bombe-boogie-woogie-article_m-2.png" alt= “” width="100" height="100"> Boogie Bomb
+
+```
+cheat spawnpickup Athena_DanceGrenade
+```
+##
+
 # 26.00
 ### • Weapons & Consumables
 
