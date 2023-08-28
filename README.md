@@ -5,6 +5,8 @@
 >
 > This was not intended to be a real thing but only for myself.
 
+- [26.00](#26.00)
+
 
 # Most of the versions
 <img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/ea/Laser_rifle_icon.png/" alt= “” width="100" height="100"> Zapotron
