@@ -5,6 +5,8 @@
 >
 > This was not intended to be a real thing but only for myself.
 
+See Also [Save The World Weapons](https://github.com/SupJko/FortniteWeapons/blob/main/STW.md)
+
 ## Table of Contents
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
