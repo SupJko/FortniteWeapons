@@ -5,15 +5,20 @@
 >
 > This was not intended to be a real thing but only for myself.
 
-Content Table
+## Table of Contents
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+<summary>"Click to view contents"</summary>
+  
 - [26.00](#2600)
 - [20.00 - 25.30](#2000---2530)
 - [15.00 - 18.40](#1500---1840)
-- [14.60](#1430)
+- [14.60](#1460)
 - [12.61](#1261)
-- [Party Royale Items]()
-- [SuperPowers&Others]()
+- [Party Royale Items](#party-royale)
+- [SuperPowers&Others](##-superpowers--ltm-1430)
 
+</details>
 
 # Most of the versions
 <img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/ea/Laser_rifle_icon.png/" alt= “” width="100" height="100"> Zapotron
