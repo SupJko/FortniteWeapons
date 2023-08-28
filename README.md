@@ -96,7 +96,7 @@ cheat spawnpickup WID_Shotgun_Standard_Athena_UC_Ore_T03
 # 26.00
 ### • Weapons & Consumables
 
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/7/76/Rocket_Ram_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Rocket Ram
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/7/76/Rocket_Ram_-_Weapon_-_Fortnite.png/revision/latest?cb=20230825085429" alt= “” width="100" height="100"> Rocket Ram
 
 ```
 cheat spawnpickup WID_RocketRam
