@@ -561,19 +561,6 @@ cheat spawnpickup AGID_JetPack+_Junior
 ```
 ##
 
-<img align="left" src="" alt= “” width="100" height="100"> 
-
-```
-cheat spawnpickup 
-```
-##
-
-<img align="left" src="" alt= “” width="100" height="100"> 
-
-```
-cheat spawnpickup 
-```
-##
 
 # 12.61
 Kinda the same things but who asked
