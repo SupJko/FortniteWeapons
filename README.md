@@ -93,13 +93,6 @@ cheat spawnpickup WID_Shotgun_Standard_Athena_UC_Ore_T03
 ```
 ##
 
-<img align="left" src="https://static1.millenium.org/articles/8/35/51/58/@/1242957-la-bombe-boogie-woogie-article_m-2.png" alt= “” width="100" height="100"> Boogie Bomb
-
-```
-cheat spawnpickup Athena_DanceGrenade
-```
-##
-
 # 26.00
 ### • Weapons & Consumables
 
