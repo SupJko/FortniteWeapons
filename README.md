@@ -5,7 +5,7 @@
 >
 > This was not intended to be a real thing but only for myself.
 
-- [26.00](#26.00)
+- [26.00](#2600)
 
 
 # Most of the versions
