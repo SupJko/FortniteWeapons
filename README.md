@@ -145,7 +145,7 @@ cheat spawnpickup WID_Shotgun_HopScotch_Athena_UR
 ```
 ##
 
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/8c/Scoped_Burst_SMG_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Scoped Burst SMG
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/8c/Scoped_Burst_SMG_-_Weapon_-_Fortnite.png/revision/latest?cb=20230825085024" alt= “” width="100" height="100"> Scoped Burst SMG
 
 ```
 cheat spawnpickup WID_SMG_RedDot_Athena_UR
