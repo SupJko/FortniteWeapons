@@ -478,9 +478,6 @@ cheat spawnpickup Builder_WID_YEETknock_UR
 
 # 14.60
 
-> **Warning**
-> Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
-
 ### • Weapons & Consumables
 
 <img align="left" src="https://static.wikia.nocookie.net/fortnite/images/b/b0/Stark_Industries_Jetpack_-_Item_-_Fortnite.png/" alt= “” width="100" height="100"> Stark Jetpack
@@ -711,6 +708,10 @@ cheat spawnpickup WID_PaintLauncher_Red
 
 ### • SuperPowers & LTM 14.30
 
+> **Warning**
+> Some of the items might bug/crash or keep the ability even if the item isnt in your inventory anymore.
+>
+> It only depends on the gameserver's quality. (dont even think about rift or cranium)
 
 <img align="left" src="https://media.discordapp.net/attachments/1112312558297292833/1112378952552558672/image.png" alt= “” width="250" height="50"> Venom's Smash & Grab (Playlist Item)
 
