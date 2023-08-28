@@ -1,7 +1,9 @@
 # FortniteWeapons
 
 > **Note**
-> Made for Project Reboot, also works with CraniumV1.\nThis was not intended to be a real thing but only for myself.
+> Made for Project Reboot, also works with CraniumV1.
+>
+> This was not intended to be a real thing but only for myself.
 
 
 # Most of the versions
