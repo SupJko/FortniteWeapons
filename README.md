@@ -4,6 +4,8 @@
 > Made for Project Reboot, also works with CraniumV1.
 >
 > This was not intended to be a real thing but only for myself.
+>
+> This is not intended to have all fortnite items but only kewl ones. 
 
 See Also [Save The World Items](https://github.com/SupJko/FortniteWeapons/blob/main/STW.md)
 
@@ -652,6 +654,258 @@ cheat spawnpickup WID_Boss_Adventure_AR
 cheat spawnpickup WID_UncleBrolly
 ```
 ##
+
+# 3.5
+
+### • Weapons & Consumables
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/db/Thrasher_Schematic_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Submachine Gun
+
+```
+cheat spawnpickup WID_Pistol_AutoHeavy_Athena_R_Ore_T03
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/e/ed/Guided_Missile_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Guided Missile
+
+```
+cheat spawnpickup WID_RC_Rocket_Athena_SR_T03
+```
+##
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/a/a2/Assault_rifle_icon.png" alt= “” width="100" height="100"> Assault Rifle
+
+```
+cheat spawnpickup WID_Assault_Auto_Athena_R_Ore_T03
+```
+##
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/c/ce/Siegebreaker_icon.png" alt= “” width="100" height="100"> Assault Rifle
+
+```
+cheat spawnpickup WID_Assault_AutoHigh_Athena_SR_Ore_T03
+```
+##
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/f/f4/Minigun_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Minigun
+
+```
+cheat spawnpickup WID_Assault_LMG_Athena_SR_Ore_T03
+```
+##
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/c/c2/Semi-auto_rifle_icon.png" alt= “” width="100" height="100"> Burst Assault Rifle
+
+```
+cheat spawnpickup WID_Assault_SemiAuto_Athena_R_Ore_T03
+```
+##
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/d/d5/Deathstalker_icon.png" alt= “” width="100" height="100"> Assault Rifle With Scope
+
+```
+cheat spawnpickup WID_Assault_Surgical_Athena_R_Ore_T03
+```
+##
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/a/a1/Grenade_Launcher_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Grenade Launcher
+
+```
+cheat spawnpickup WID_Launcher_Grenade_Athena_SR_Ore_T03
+```
+##
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/c/ce/Rocket_launcher_icon.png" alt= “” width="100" height="100"> Rocket Launcher
+
+```
+cheat spawnpickup WID_Launcher_Rocket_Athena_SR_Ore_T03
+```
+##
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/0/09/Bald_Eagle_icon.png" alt= “” width="100" height="100"> Hand Cannon
+
+```
+cheat spawnpickup WID_Pistol_HandCannon_Athena_SR_Ore_T03
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/1/1f/Tactical_Submachine_Gun_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Tactical Submachine Gun
+
+```
+cheat spawnpickup WID_Pistol_Scavenger_Athena_R_Ore_T03
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/a/ae/Semi-auto_handgun_icon.png" alt= “” width="100" height="100"> Pistol
+
+```
+cheat spawnpickup WID_Pistol_SemiAuto_Athena_R_Ore_T03
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/5/58/Revolver_icon.png" alt= “” width="100" height="100"> Revolver
+
+```
+cheat spawnpickup WID_Pistol_SixShooter_Athena_C_Ore_T02
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/5/54/Pump-action_shotgun_icon.png" alt= “” width="100" height="100"> Pump Shotgun
+
+```
+cheat spawnpickup WID_Shotgun_Standard_Athena_UC_Ore_T03
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/a/a1/Scoped_dragonfly_icon.png" alt= “” width="100" height="100"> Bolt-Action Sniper Rifle
+
+```
+cheat spawnpickup WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03
+```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
+
+### • Scrapped and Dev Items
+
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146117460051902524/T-Icon-Weapons-SK-Monsoon-L.png" alt= “” width="100" height="100"> Moonsoon
+
+```
+cheat spawnpickup WID_Pistol_Gatling_Athena_SR_Ore_T03
+```
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146118670448332920/T-Icon-Weapons-SK-Space-Pistol-L.png" alt= “” width="100" height="100"> Space Pistol
+
+```
+cheat spawnpickup WID_Pistol_Space_Athena_SR_Ore_T03
+```
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146119021993935058/T-Icon-Weapons-SK-Raygun-Pistol-L.png?width=494&height=494" alt= “” width="100" height="100"> Zao Zapp
+
+```
+cheat spawnpickup WID_Pistol_Zapper_Athena_SR_Ore_T03
+```
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146119431286693970/T-Icon-Weapons-SK-Shotgun-02-Auto-L.png" alt= “” width="100" height="100"> Auto Shotty
+
+```
+cheat spawnpickup WID_Shotgun_Minigun_Athena_SR_Ore_T03
+```
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/ea/Laser_rifle_icon.png" alt= “” width="100" height="100"> Zapotron (From Battle Royale)
+
+```
+cheat spawnpickup WID_Sniper_AMR_Athena_SR_Ore_T03
+```
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/2/2b/Shredder_icon.png" alt= “” width="100" height="100"> Super Shredder
+
+```
+cheat spawnpickup WID_Sniper_Shredder_Athena_SR_Ore_T03
+```
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/5/5d/Triple_Tap_icon.png" alt= “” width="100" height="100"> Triple Tap
+
+```
+cheat spawnpickup WID_Sniper_TripleShot_Athena_SR_Ore_T03
+```
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/88/Crossbow_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Explosive Crossbow
+
+```
+cheat spawnpickup WID_Explosive_Crossbow_Athena_SR
+```
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/6/6a/Hammercrush_Schematic_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Hammercrush
+
+```
+cheat spawnpickup WID_Assault_SingleShot_Athena_SR_Ore_T03
+```
+<img align="left" src="https://odealo.com/uploads/public/Fortnite/BestWeapons/Razorblade.png" alt= “” width="100" height="100"> Precision Rifle
+
+```
+cheat spawnpickup WID_Assault_Ranged_Athena_R_Ore_T03
+```
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
 
 # Party Royale
 
