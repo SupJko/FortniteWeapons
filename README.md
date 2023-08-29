@@ -18,7 +18,6 @@ See Also [Save The World Items](https://github.com/SupJko/FortniteWeapons/blob/m
 - [15.00 - 18.40 Items](#1500---1840)
 - [14.60 Items](#1460)
 - [12.61 Items](#1261)
-- [3.5 Items](#35)
 - [Party Royale Items](#party-royale)
 - [SuperPowers&Others](##-superpowers--ltm-1430)
 
@@ -757,45 +756,45 @@ cheat spawnpickup WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03
 ```
 ##
 
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+<img align="left" src="https://media.discordapp.net/attachments/1097596369973285006/1146137891253264384/T-T-Icon-BR-SK-Jetpack-Junkpak-L.png" alt= “” width="100" height="100"> Jetpack
 
 ```
-cheat spawnpickup 
-```
-##
-
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
-
-```
-cheat spawnpickup 
+cheat spawnpickup AGID_BoostJumpPack
 ```
 ##
 
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/e1/Ceiling_zapper_icon.png" alt= “” width="100" height="100"> Ceiling Zapper
 
 ```
-cheat spawnpickup 
-```
-##
-
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
-
-```
-cheat spawnpickup 
+cheat spawnpickup TID_Ceiling_Electric_Single_Athena_R_T03 10
 ```
 ##
 
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/6/69/Directional_Jump_Pad_%28Vertical%29_-_Trap_-_Fortnite.png" alt= “” width="100" height="100"> Jump Pad (Up)
 
 ```
-cheat spawnpickup 
+cheat spawnpickup TID_Floor_Player_Jump_Pad_Athena 10
 ```
 ##
 
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/9/9e/Directional_Jump_Pad_-_Trap_-_Fortnite.png" alt= “” width="100" height="100"> Jump Pad (Directional)
 
 ```
-cheat spawnpickup 
+cheat spawnpickup TID_Floor_Player_Jump_Pad_Free_Direction_Athena 10
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/9/98/Wall_dynamo_icon.png" alt= “” width="100" height="100"> Wall Dynamo
+
+```
+cheat spawnpickup TID_Wall_Electric_Athena_R_T03 10
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/f/f1/Launch_Pad.png" alt= “” width="100" height="100"> Launch Pad
+
+```
+cheat spawnpickup TID_Floor_Player_Launch_Pad_Athena 10
 ```
 ##
 
@@ -849,64 +848,224 @@ cheat spawnpickup
 ```
 cheat spawnpickup WID_Pistol_Gatling_Athena_SR_Ore_T03
 ```
+##
 
 <img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146118670448332920/T-Icon-Weapons-SK-Space-Pistol-L.png" alt= “” width="100" height="100"> Space Pistol
 
 ```
 cheat spawnpickup WID_Pistol_Space_Athena_SR_Ore_T03
 ```
+##
 
 <img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146119021993935058/T-Icon-Weapons-SK-Raygun-Pistol-L.png?width=494&height=494" alt= “” width="100" height="100"> Zao Zapp
 
 ```
 cheat spawnpickup WID_Pistol_Zapper_Athena_SR_Ore_T03
 ```
+##
 
 <img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146119431286693970/T-Icon-Weapons-SK-Shotgun-02-Auto-L.png" alt= “” width="100" height="100"> Auto Shotty
 
 ```
 cheat spawnpickup WID_Shotgun_Minigun_Athena_SR_Ore_T03
 ```
+##
 
 <img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/ea/Laser_rifle_icon.png" alt= “” width="100" height="100"> Zapotron (From Battle Royale)
 
 ```
 cheat spawnpickup WID_Sniper_AMR_Athena_SR_Ore_T03
 ```
+##
 
 <img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/2/2b/Shredder_icon.png" alt= “” width="100" height="100"> Super Shredder
 
 ```
 cheat spawnpickup WID_Sniper_Shredder_Athena_SR_Ore_T03
 ```
+##
 
 <img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/5/5d/Triple_Tap_icon.png" alt= “” width="100" height="100"> Triple Tap
 
 ```
 cheat spawnpickup WID_Sniper_TripleShot_Athena_SR_Ore_T03
 ```
+##
 
 <img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/88/Crossbow_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Explosive Crossbow
 
 ```
 cheat spawnpickup WID_Explosive_Crossbow_Athena_SR
 ```
+##
 
 <img align="left" src="https://static.wikia.nocookie.net/fortnite/images/6/6a/Hammercrush_Schematic_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Hammercrush
 
 ```
 cheat spawnpickup WID_Assault_SingleShot_Athena_SR_Ore_T03
 ```
+##
+
 <img align="left" src="https://odealo.com/uploads/public/Fortnite/BestWeapons/Razorblade.png" alt= “” width="100" height="100"> Precision Rifle
 
 ```
 cheat spawnpickup WID_Assault_Ranged_Athena_R_Ore_T03
 ```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/890178801387065395/1146137456480104468/T-Icon-BackpackInventory.png" alt= “” width="100" height="100"> Eye of the Storm Tracker
+
+```
+cheat spawnpickup AGID_EyeOfTheStormTracker
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/890178801387065395/1146137456480104468/T-Icon-BackpackInventory.png" alt= “” width="100" height="100"> Test - MissileBattery - Backpack
+
+```
+cheat spawnpickup Athena_Pack_MissleBattery_Homing
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/890178801387065395/1146138385447145602/T-Icon-Backpack-128.png" alt= “” width="100" height="100"> Test - Double Jump - Backpack
+
+```
+cheat spawnpickup Test_InGameItem
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/890178801387065395/1146137456480104468/T-Icon-BackpackInventory.png" alt= “” width="100" height="100"> Test - AirStrike - Backpack
+
+```
+cheat spawnpickup Test_InGameItem2
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/890178801387065395/1146138698166042634/reward_collectionbook.png" alt= “” width="100" height="100"> Test - Detect Treasure - Backpack
+
+```
+cheat spawnpickup Test_InGameItem3
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/890178801387065395/1146137456480104468/T-Icon-BackpackInventory.png" alt= “” width="100" height="100"> Medic Pack
+
+```
+cheat spawnpickup Athena_Medic_Pack
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/890178801387065395/1146138385447145602/T-Icon-Backpack-128.png" alt= “” width="100" height="100"> Backpack
+
+```
+cheat spawnpickup Athena_Backpack
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146140960535891968/T-Icon-Weapons-S-Grenade-Gas-L.png" alt= “” width="100" height="100"> Stink Bomb
+
+```
+cheat spawnpickup Athena_GasGrenade
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/8f/M80_-_Icon_-_Fortnite.png" alt= “” width="100" height="100"> M80
+
+```
+cheat spawnpickup Athena_M80
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/890178801387065395/1146141898814263296/T-Icon-Chest-128.png" alt= “” width="100" height="100"> Mimic
+
+```
+cheat spawnpickup Athena_Mimic
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/890178801387065395/1146142035926073425/T-Banners-Icons-TreasureChest-L.png" alt= “” width="100" height="100"> POP-UP Grenade
+
+```
+cheat spawnpickup Athena_PopupGrenade
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/890178801387065395/1146142425841152050/T-T-Icon-BR-StickyGrenade-L.png" alt= “” width="100" height="100"> Sticky Grenade
+
+```
+cheat Athena_StickyGrenade 
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/2/2f/Haywire_icon.png" alt= “” width="100" height="100"> Gnome Gun!
+
+```
+cheat spawnpickup GnomeGun2
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/d8/Double_Barrel_Shotgun_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Copper Double-Barreled Shotgun (ShotGod)
+
+```
+cheat spawnpickup ShotGod
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/890178801387065395/1146143351373037752/SK_ProtoAssualt.png" alt= “” width="100" height="100"> Test God Gun
+
+```
+cheat spawnpickup TestGod
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/df/Glacial_Legends_Pack_-_Placeholder_-_Fortnite.png" alt= “” width="100" height="100"> Wanna Gun
+
+```
+cheat spawnpickup WannaGun
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146143919713812540/SK_RPG7.png" alt= “” width="100" height="100"> Test Charge Rocket
+
+```
+cheat spawnpickup WID_TestChargeRocket
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/c/ce/Rocket_launcher_icon.png" alt= “” width="100" height="100"> Troll Launcher
+
+```
+cheat spawnpickup WID_Troll_Launcher_Durability
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146144517641220166/T-Icon-Weapons-SK-ProtoAssault.png" alt= “” width="100" height="100"> Goin' Commando!!!
+
+```
+cheat spawnpickup GoinCommandoWeapon
+```
+##
+
 <img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
 
 ```
 cheat spawnpickup 
 ```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
+
+<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
+
+```
+cheat spawnpickup 
+```
+##
 
 # Party Royale
 
