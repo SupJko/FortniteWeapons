@@ -20,7 +20,9 @@ See Also [Save The World Items](https://github.com/SupJko/FortniteWeapons/blob/m
 - [12.61 Items](#1261)
 - [3.5 Items](#35)
 - [Party Royale Items](#party-royale)
-- [SuperPowers&Others](##-superpowers--ltm-1430)
+- [14.30 Super Powers](##-superpowers--ltm-1430)
+- [Playground Minigames Grenades](#playgroundminigamesgrenades)
+- [Creative Items](#creative)
 
 </details>
 
@@ -656,6 +658,135 @@ cheat spawnpickup WID_UncleBrolly
 ```
 ##
 
+
+# 8.51
+
+### • Weapons & Consumables
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/1/1b/ThanosInfinityGauntlet.png" alt= “” width="100" height="100"> Infinity Gauntlet
+
+```
+cheat spawnpickup AGID_CarminePack
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/0/05/Captain_America%27s_Shield_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Captain America's Shield
+
+```
+cheat spawnpickup AGID_AshtonPack_Chicago
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/9/9f/Hawkeye%27s_Bow_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Hawkeye's Bow
+
+```
+cheat spawnpickup AGID_AshtonPack_Hippo
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/e4/IronManRepulsorsIcon.png" alt= “” width="100" height="100"> Iron Man's Repulsors
+
+```
+cheat spawnpickup AGID_AshtonPack_Indigo
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/3/36/Thor%27s_Storbreakericon.png" alt= “” width="100" height="100"> Thor's Stormbreaker
+
+```
+cheat spawnpickup AGID_AshtonPack_Turbo
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/5/51/AshtonLaser.png" alt= “” width="100" height="100"> Chitauri Laser Rifle
+
+```
+cheat spawnpickup AGID_AshtonPack_Milo
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/d0/Chitauri_Jetpack_-_Mobility_-_Fortnite.png" alt= “” width="100" height="100"> Chitauri Jetpack
+
+```
+cheat spawnpickup AGID_JetPack_AshtonPack_Milo
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/e/e1/Avengers_Buried_Treasure_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Buried Treasure
+
+```
+cheat spawnpickup AGID_Athena_Booty_Ashton
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/a/ae/BuriedTreasure.png" alt= “” width="100" height="100"> Buried Treasure
+
+```
+cheat spawnpickup AGID_Athena_Booty
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/6/64/Pump_Shotgun_%28High_Tier%29_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Pump Shotgun
+
+```
+cheat spawnpickup WID_Shotgun_Standard_Athena_SR_Ore_T03
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/85/Shadow_Bomb_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Shadow Bomb
+
+```
+cheat spawnpickup Athena_SmokeBomb
+```
+##
+
+# 7.40
+
+### • Weapons & Consumables
+
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/c/c0/Cupid%27s_Crossbow_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Cupid's Crossbow
+
+```
+cheat spawnpickup WID_Sniper_Valentine_Athena_VR_Ore_T03
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/9/99/Balloons_icon.png" alt= “” width="100" height="100"> Balloons
+
+```
+cheat spawnpickup Athena_Balloons_Consumable
+```
+##
+
+<img align="left" src="https://www.creocommunity.com/wp-content/uploads/2023/04/1680625849_Boite-de-perche-Wiki-Fortnite.png" alt= “” width="100" height="100"> Boom Box
+
+```
+cheat spawnpickup BoomBox_Athena
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/8/89/BottleRockets.png" alt= “” width="100" height="100"> Bottle Rockets
+
+```
+cheat spawnpickup Athena_FireworksMortar
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/5/50/Rift-To-Go.png" alt= “” width="100" height="100"> Rift-To-Go
+
+```
+cheat spawnpickup Athena_Rift_Item
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/2/28/Machine_Pistol_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Machine Pistol
+
+```
+cheat spawnpickup WID_Pistol_AutoHeavy_Athena_R_Ore_T03
+```
+##
+
 # 3.5
 
 ### • Weapons & Consumables
@@ -796,48 +927,6 @@ cheat spawnpickup TID_Wall_Electric_Athena_R_T03 10
 
 ```
 cheat spawnpickup TID_Floor_Player_Launch_Pad_Athena 10
-```
-##
-
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
-
-```
-cheat spawnpickup 
-```
-##
-
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
-
-```
-cheat spawnpickup 
-```
-##
-
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
-
-```
-cheat spawnpickup 
-```
-##
-
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
-
-```
-cheat spawnpickup 
-```
-##
-
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
-
-```
-cheat spawnpickup 
-```
-##
-
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
-
-```
-cheat spawnpickup 
 ```
 ##
 
@@ -994,7 +1083,7 @@ cheat spawnpickup Athena_PopupGrenade
 <img align="left" src="https://media.discordapp.net/attachments/890178801387065395/1146142425841152050/T-T-Icon-BR-StickyGrenade-L.png" alt= “” width="100" height="100"> Sticky Grenade
 
 ```
-cheat spawnpickup Athena_StickyGrenade 
+cheat Athena_StickyGrenade 
 ```
 ##
 
@@ -1044,27 +1133,6 @@ cheat spawnpickup WID_Troll_Launcher_Durability
 
 ```
 cheat spawnpickup GoinCommandoWeapon
-```
-##
-
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
-
-```
-cheat spawnpickup 
-```
-##
-
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
-
-```
-cheat spawnpickup 
-```
-##
-
-<img align="left" src="ITEMIMAGELINK" alt= “” width="100" height="100"> ITEMNAME
-
-```
-cheat spawnpickup 
 ```
 ##
 
@@ -1366,3 +1434,178 @@ cheat spawnpickup WID_HighTower_HoneyDew_Fists
 cheat spawnpickup WID_HighTower_Date_ChainLightning
 ```
 
+
+# Playground Minigames Grenades
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146225475056849027/T-Icon-BR-CH-Build01.png" alt= “” width="100" height="100"> Port-A-Challenge Build 1
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_BuildTheBox
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146225475056849027/T-Icon-BR-CH-Build01.png" alt= “” width="100" height="100"> Port-A-Challenge Build 2
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_BuildTheTower
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146225475056849027/T-Icon-BR-CH-Build01.png" alt= “” width="100" height="100"> Port-A-Challenge Build 3
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_BuildTheRamp
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146225475056849027/T-Icon-BR-CH-Build01.png" alt= “” width="100" height="100"> Port-A-Challenge Build 4
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_BuildTheChallenge_1
+```
+##
+
+
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146225943053090886/T-Icon-BR-CH-Ship01.png" alt= “” width="100" height="100"> Port-A-Deathmatch
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_Deathmatch
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146226113782239372/T-Icon-BR-CH-Range01.png" alt= “” width="100" height="100"> Port-A-Challenge Range 1
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_FiringRange
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146226113782239372/T-Icon-BR-CH-Range01.png" alt= “” width="100" height="100"> Port-A-Challenge Range 2
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_FiringRange_2
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146226113782239372/T-Icon-BR-CH-Range01.png" alt= “” width="100" height="100"> Port-A-Challenge Range 3
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_FiringRange_3
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146226113782239372/T-Icon-BR-CH-Range01.png" alt= “” width="100" height="100"> Port-A-Challenge Range 4
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_FiringRange_4
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146225943053090886/T-Icon-BR-CH-Ship01.png" alt= “” width="100" height="100"> Port-A-Iron Clad
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_IronClad
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146225943053090886/T-Icon-BR-CH-Ship01.png" alt= “” width="100" height="100"> Port-A-PirateShip
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_PirateShip
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146227142951190528/T-Icon-BR-CH-Obstacle01.png" alt= “” width="100" height="100"> Port-A-Challenge Obstacle 1
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_ObstacleCourse3
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146227142951190528/T-Icon-BR-CH-Obstacle01.png" alt= “” width="100" height="100"> Port-A-Challenge Obstacle 2
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_ObstacleCourse4
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146227142951190528/T-Icon-BR-CH-Obstacle01.png" alt= “” width="100" height="100"> Port-A-Challenge Obstacle 3
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_ObstacleCourse5
+```
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1146227142951190528/T-Icon-BR-CH-Obstacle01.png" alt= “” width="100" height="100"> Port-A-Challenge Obstacle 4
+
+```
+cheat spawnpickup Athena_PlaysetGrenade_Instance_ObstacleCourse6
+```
+##
+
+# Creative
+
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/b/bd/Icon_MoveTool.png" alt= “” width="100" height="100"> Phone
+
+```
+cheat spawnpickup WID_CreativeTool
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_creative_database/images/d/d7/Shopping_Cart_Spawn.png" alt= “” width="100" height="100"> Shopping Cart Spawn
+
+```
+cheat spawnpickup TID_Floor_ShoppingCartSpawner
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_creative_database/images/2/2a/Quadcrasher_Spawn.png" alt= “” width="100" height="100"> QuadCrasher Spawner
+
+```
+cheat spawnpickup TID_Floor_QuadSpawner
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_creative_database/images/1/10/ATK_Spawn.png" alt= “” width="100" height="100"> ATK Spawn
+
+```
+cheat spawnpickup TID_Floor_GolfCartSpawner
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/1/18/DriftboardIcon.png" alt= “” width="100" height="100"> Driftboard Spawn
+
+```
+cheat spawnpickup TID_Floor_HoverboardSpawner
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_creative_database/images/c/c8/X-4_Stormwing_Spawn.png" alt= “” width="100" height="100"> X-4 Stormwing Spawn
+
+```
+cheat spawnpickup TID_Floor_BiplaneSpawner
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_creative_database/images/c/ca/Baller_Spawn.png" alt= “” width="100" height="100"> Baller Spawn
+
+```
+cheat spawnpickup TID_Floor_BallerSpawner
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_creative_database/images/5/5b/Cannon_Spawn.png" alt= “” width="100" height="100"> Cannon Spawn
+
+```
+cheat spawnpickup TID_Floor_CannonSpawner
+```
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite_creative_database/images/1/18/B.R.U.T.E._Spawn.png" alt= “” width="100" height="100"> B.R.U.T.E. Spawn
+
+```
+cheat spawnpickup idkman
+```
+##
