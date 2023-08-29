@@ -18,6 +18,7 @@ See Also [Save The World Items](https://github.com/SupJko/FortniteWeapons/blob/m
 - [15.00 - 18.40 Items](#1500---1840)
 - [14.60 Items](#1460)
 - [12.61 Items](#1261)
+- [3.5 Items](#35)
 - [Party Royale Items](#party-royale)
 - [SuperPowers&Others](##-superpowers--ltm-1430)
 
