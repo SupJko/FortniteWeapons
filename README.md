@@ -7,6 +7,8 @@
 >
 > This is not intended to have all fortnite items but only kewl ones. 
 
+Need to search for a particular item? Do CTRL + F and search for the Display Name or the ID!
+
 See Also [Save The World Items](https://github.com/SupJko/FortniteWeapons/blob/main/STW.md)
 
 ## Table of Contents
@@ -18,28 +20,23 @@ See Also [Save The World Items](https://github.com/SupJko/FortniteWeapons/blob/m
 - [15.00 - 18.40 Items](#1500---1840)
 - [14.60 Items](#1460)
 - [12.61 Items](#1261)
+- [8.51 Items](#851)
+- [7.40 Items](#740)
 - [3.5 Items](#35)
 - [Party Royale Items](#party-royale)
 - [14.30 Super Powers](##-superpowers--ltm-1430)
-- [Playground Minigames Grenades](#playgroundminigamesgrenades)
+- [Playground Minigames Grenades](#playground-minigames-grenades)
 - [Creative Items](#creative)
 
 </details>
 
-# Most of the versions
+# Common Items
 <img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/e/ea/Laser_rifle_icon.png/" alt= “” width="100" height="100"> Zapotron
 
 ```
 cheat spawnpickup WID_Sniper_AMR_SR_Crystal_T05
 ```
 
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/1/1b/ThanosInfinityGauntlet.png" alt= “” width="100" height="100"> Infinity Gauntlet
-
-```
-cheat spawnpickup AGID_CarminePack
-```
 ##
 
 <img  align="left"  src="https://static.wikia.nocookie.net/fortnite/images/0/0c/Upgrade_Bench_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> Upgrade Bench
@@ -53,20 +50,6 @@ cheat spawnpickup AGID_Wumba
 
 ```
 cheat spawnpickup AGID_Sword
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/3/36/Thor%27s_Storbreakericon.png" alt= “” width="100" height="100"> Thor's Stormbreaker
-
-```
-cheat spawnpickup AGID_AshtonPack_Turbo
-```
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite_gamepedia/images/6/63/CaptainAmerica%27sShield.png" alt= “” width="100" height="100"> Captain America's Shield
-
-```
-cheat spawnpickup AGID_AshtonPack_Chicago
 ```
 ##
 
