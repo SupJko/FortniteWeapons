@@ -994,7 +994,7 @@ cheat spawnpickup Athena_PopupGrenade
 <img align="left" src="https://media.discordapp.net/attachments/890178801387065395/1146142425841152050/T-T-Icon-BR-StickyGrenade-L.png" alt= “” width="100" height="100"> Sticky Grenade
 
 ```
-cheat Athena_StickyGrenade 
+cheat spawnpickup Athena_StickyGrenade 
 ```
 ##
 
