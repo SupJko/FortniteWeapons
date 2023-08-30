@@ -16,7 +16,8 @@ cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn.HuskPawn_C
 cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn_Zapper.HuskPawn_Zapper_C
 ```
 ##
-<img src="https://static.wikia.nocookie.net/fortnite/images/f/f1/Cube_Brute_-_Creatures_-_Fortnite.png" alt= “” width="100" height="100"> Brute
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/f/f1/Cube_Brute_-_Creatures_-_Fortnite.png" alt= “” width="100" height="100"> Brute
 
 ```
 cheat summon /Game/Athena/AI/Pawns/AthenaAI_Brute.AthenaAI_Brute_C
