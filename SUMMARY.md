@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Battle Royale Items](README.md)
+  * [3.5 Items](battle-royale-items/3.5-items.md)
+  * [7.40 Items](battle-royale-items/7.40-items.md)
+  * [8.51 Items](battle-royale-items/8.51-items.md)
+  * [12.61 Items](battle-royale-items/12.61-items.md)
+  * [14.60 Items](battle-royale-items/14.60-items.md)
+  * [15.50 Items](battle-royale-items/15.50-items.md)
+  * [16.00 to 18.40 Items](battle-royale-items/16.00-to-18.40-items.md)
+  * [20.00 to 25.30 Items](battle-royale-items/20.00-to-25.30-items.md)
+  * [26.00 Items](battle-royale-items/26.00-items.md)
+* [Blueprints](ENTITIES.md)
+* [Save The World Stuff (OLD)](stw.md)
+* [Template Table](template-table.md)
