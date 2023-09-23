@@ -17,7 +17,8 @@ See Also [Save The World Items](https://github.com/SupJko/FortniteWeapons/blob/m
   
 - [26.00 Items](#2600)
 - [20.00 - 25.30 Items](#2000---2530)
-- [15.00 - 18.40 Items](#1500---1840)
+- [16.00 - 18.40 Items](#1500---1840)
+- [15.50 Items](#1550)
 - [14.60 Items](#1460)
 - [12.61 Items](#1261)
 - [8.51 Items](#851)
@@ -284,135 +285,6 @@ cheat spawnpickup WID_Chrono_ExoticSlapSplash
 ```
 ##
 
-# 15.50
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/4/47/First_Order_Blaster_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> E-11 Blaster Rifle
-
-```
-cheat spawnpickup WID_Cosmos_AR_Athena_UC
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/d0/The_Mandalorian%27s_Jetpack_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> The Mandalorian's Jetpack
-
-```
-cheat spawnpickup AGID_Cosmos_Jelly
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/2/29/Amban_Sniper_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Amban Sniper Rifle
-
-```
-cheat spawnpickup WID_Sniper_Cosmos_Athena_VR
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/4/42/Boom_Sniper_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Boom Sniper Rifle
-
-```
-cheat spawnpickup WID_WaffleTruck_BoomSniper
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/a/a8/Snowball_Launcher_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> The Big Chill
-
-```
-cheat spawnpickup WID_WaffleTruck_ChillerLauncher
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/8b/The_Dub_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> The Dub
-
-```
-cheat spawnpickup WID_WaffleTruck_Dub
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/83/Hop_Rock_Dualies_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Hop Rock Dualies
-
-```
-cheat spawnpickup WID_WaffleTruck_HopRockDualies
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/d0/Burst_Quad_Launcher_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Burst Quad Launcher
-
-```
-cheat spawnpickup WID_WaffleTruck_Launcher_DrunkenQuad
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/5/50/Night_Hawk_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Night Hawk
-
-```
-cheat spawnpickup WID_WaffleTruck_Pistol_ThermalScope
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/3/31/Shadow_Tracker_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Shadow Tracker
-
-```
-cheat spawnpickup WID_WaffleTruck_Pistol_Tracking
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/d1/Chug_Cannon_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Chug Cannon
-
-```
-cheat spawnpickup WID_WaffleTruck_Rocket_Slurp
-```
-
-##
-
-<img align="left" src="https://cdn.discordapp.com/attachments/1102820924752937020/1155224069759840296/T-Icon-Weapons-PDW-L.png" alt= “” width="100" height="100"> Frozen
-
-```
-cheat spawnpickup WID_WaffleTruck_SMG_Frozen
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/f/f2/Dragon%27s_Breath_Sniper_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Dragon's Breath Sniper
-
-```
-cheat spawnpickup WID_WaffleTruck_Sniper_DragonBreath
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/5/5f/Storm_Scout_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Storm Scout
-
-```
-cheat spawnpickup WID_WaffleTruck_Sniper_StormScout
-```
-
-##
-
-<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1155227536733765782/360.png" alt= “” width="100" height="100"> Chug Cannon ?
-
-```
-cheat spawnpickup AGID_WaffleTruck_Rocket_Slurp
-```
-
-##
-
-<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/3/31/Flint-Knock_Pistol_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Flight-Knock Pistol
-
-```
-cheat spawnpickup Builder_WID_YEETknock_UR
-```
-##
-
 # 16.00 - 18.40
 
 <img align="left" src="https://static.wikia.nocookie.net/fortnite/images/1/11/Bars_%28Large%29_-_Currency_-_Fortnite.png" alt= “” width="100" height="100"> Gold Bars
@@ -583,6 +455,135 @@ cheat spawnpickup AGID_Clash_Red_Athena
 cheat spawnpickup AGID_Clash_Black_Athena
 ```
 
+##
+
+# 15.50
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/4/47/First_Order_Blaster_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> E-11 Blaster Rifle
+
+```
+cheat spawnpickup WID_Cosmos_AR_Athena_UC
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/d0/The_Mandalorian%27s_Jetpack_-_Item_-_Fortnite.png" alt= “” width="100" height="100"> The Mandalorian's Jetpack
+
+```
+cheat spawnpickup AGID_Cosmos_Jelly
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/2/29/Amban_Sniper_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Amban Sniper Rifle
+
+```
+cheat spawnpickup WID_Sniper_Cosmos_Athena_VR
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/4/42/Boom_Sniper_Rifle_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Boom Sniper Rifle
+
+```
+cheat spawnpickup WID_WaffleTruck_BoomSniper
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/a/a8/Snowball_Launcher_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> The Big Chill
+
+```
+cheat spawnpickup WID_WaffleTruck_ChillerLauncher
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/8b/The_Dub_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> The Dub
+
+```
+cheat spawnpickup WID_WaffleTruck_Dub
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/8/83/Hop_Rock_Dualies_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Hop Rock Dualies
+
+```
+cheat spawnpickup WID_WaffleTruck_HopRockDualies
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/d0/Burst_Quad_Launcher_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Burst Quad Launcher
+
+```
+cheat spawnpickup WID_WaffleTruck_Launcher_DrunkenQuad
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/5/50/Night_Hawk_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Night Hawk
+
+```
+cheat spawnpickup WID_WaffleTruck_Pistol_ThermalScope
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/3/31/Shadow_Tracker_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Shadow Tracker
+
+```
+cheat spawnpickup WID_WaffleTruck_Pistol_Tracking
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/d/d1/Chug_Cannon_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Chug Cannon
+
+```
+cheat spawnpickup WID_WaffleTruck_Rocket_Slurp
+```
+
+##
+
+<img align="left" src="https://cdn.discordapp.com/attachments/1102820924752937020/1155224069759840296/T-Icon-Weapons-PDW-L.png" alt= “” width="100" height="100"> Frozen
+
+```
+cheat spawnpickup WID_WaffleTruck_SMG_Frozen
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/f/f2/Dragon%27s_Breath_Sniper_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Dragon's Breath Sniper
+
+```
+cheat spawnpickup WID_WaffleTruck_Sniper_DragonBreath
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/5/5f/Storm_Scout_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Storm Scout
+
+```
+cheat spawnpickup WID_WaffleTruck_Sniper_StormScout
+```
+
+##
+
+<img align="left" src="https://media.discordapp.net/attachments/1102820924752937020/1155227536733765782/360.png" alt= “” width="100" height="100"> Chug Cannon ?
+
+```
+cheat spawnpickup AGID_WaffleTruck_Rocket_Slurp
+```
+
+##
+
+<img align="left" src="https://static.wikia.nocookie.net/fortnite/images/3/31/Flint-Knock_Pistol_-_Weapon_-_Fortnite.png" alt= “” width="100" height="100"> Flight-Knock Pistol
+
+```
+cheat spawnpickup Builder_WID_YEETknock_UR
+```
 ##
 
 
