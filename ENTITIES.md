@@ -4,7 +4,7 @@ description: Vehicles might not working depending on which gameserver you are us
 
 # Blueprints
 
-<table data-full-width="true"><thead><tr><th width="193">Name</th><th width="88.33333333333337">Version</th><th>Path</th></tr></thead><tbody><tr><td>Husk</td><td>Every</td><td><p></p><pre><code>cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn.HuskPawn_C
+<table data-full-width="true"><thead><tr><th width="193">Name</th><th width="104.33333333333337">Version</th><th>Path</th></tr></thead><tbody><tr><td>Husk</td><td>Every</td><td><p></p><pre><code>cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn.HuskPawn_C
 </code></pre></td></tr><tr><td>Husk Zapper</td><td>Every</td><td><p></p><pre><code>cheat summon /Game/Characters/Enemies/Husk/Blueprints/HuskPawn_Zapper.HuskPawn_Zapper_C
 </code></pre></td></tr><tr><td>Brute</td><td>6.00+</td><td><p></p><pre><code>cheat summon /Game/Athena/AI/Pawns/AthenaAI_Brute.AthenaAI_Brute_C
 </code></pre></td></tr><tr><td>Golf Cart</td><td>5.00+</td><td><p></p><pre><code>cheat summon /Game/Athena/DrivableVehicles/Golf_Cart/Golf_Cart_Base/Blueprints/GolfCartVehicleSK.GolfCartVehicleSK_C

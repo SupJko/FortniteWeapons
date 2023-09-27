@@ -16,5 +16,6 @@
 * [Playground items](playground-items.md)
 * [Creative Items](creative-items.md)
 * [Blueprints](ENTITIES.md)
+* [Save The World Items](save-the-world-items.md)
 * [Save The World Stuff (OLD)](stw.md)
 * [Template Table](template-table.md)
