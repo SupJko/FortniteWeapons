@@ -11,6 +11,7 @@
   * [16.00 to 18.40 Items](battle-royale-items/16.00-to-18.40-items.md)
   * [20.00 to 25.30 Items](battle-royale-items/20.00-to-25.30-items.md)
   * [26.00 Items](battle-royale-items/26.00-items.md)
+  * [26.20 Items](battle-royale-items/26.20-items.md)
   * [14.30 Playlists Superpowers](battle-royale-items/14.30-playlists-superpowers.md)
   * [14.30 Superpowers](battle-royale-items/14.30-superpowers.md)
 * [Playground items](playground-items.md)
