@@ -14,3 +14,9 @@ description: Items found in Playground V2 Playlist
 </code></pre></td></tr><tr><td><img src="https://static.wikia.nocookie.net/fortnite_creative_database/images/5/5b/Cannon_Spawn.png" alt="“”"> </td><td><mark style="color:orange;"><strong>Cannon Spawn</strong></mark></td><td><p></p><pre><code>cheat spawnpickup TID_Floor_CannonSpawner
 </code></pre></td></tr><tr><td><img src="https://static.wikia.nocookie.net/fortnite_creative_database/images/1/18/B.R.U.T.E._Spawn.png" alt="“”"> </td><td><mark style="color:orange;"><strong>B.R.U.T.E. Spawn</strong></mark></td><td><p></p><pre><code>cheat spawnpickup TID_Floor_MechSpawner
 </code></pre></td></tr></tbody></table>
+
+7.00 (yes real icon)
+
+<table data-full-width="true"><thead><tr><th width="186">Icon</th><th width="185.33333333333331">Display Name</th><th>ID</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image.png" alt=""></td><td><mark style="color:red;"><strong>Creative Control Panel</strong></mark></td><td><p></p><pre><code>cheatscript spawnpickup TID_Floor_Creative_Control_Panel
+</code></pre></td></tr><tr><td><img src=".gitbook/assets/image (2).png" alt=""></td><td><mark style="color:red;"><strong>Minigame Spawner</strong></mark></td><td><p></p><pre><code>cheatscript spawnpickup TID_Floor_Minigame_Spawner
+</code></pre></td></tr></tbody></table>

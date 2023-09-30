@@ -2,6 +2,7 @@
 
 * [FortWeapons](README.md)
 * [Battle Royale Items](<README (1).md>)
+  * [2.4.2 Items (only scrapped)](battle-royale-items/2.4.2-items-only-scrapped.md)
   * [3.5 Items](battle-royale-items/3.5-items.md)
   * [7.40 Items](battle-royale-items/7.40-items.md)
   * [8.51 Items](battle-royale-items/8.51-items.md)

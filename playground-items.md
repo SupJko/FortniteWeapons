@@ -19,5 +19,5 @@ description: Items found in Playground LTM
 </code></pre></td></tr><tr><td><img src="https://media.discordapp.net/attachments/1102820924752937020/1146227142951190528/T-Icon-BR-CH-Obstacle01.png" alt="“”"> </td><td><strong>Port-A-Challenge Obstacle 2</strong></td><td><p></p><pre><code>cheat spawnpickup Athena_PlaysetGrenade_Instance_ObstacleCourse4
 </code></pre></td></tr><tr><td><img src="https://media.discordapp.net/attachments/1102820924752937020/1146227142951190528/T-Icon-BR-CH-Obstacle01.png" alt="“”"> </td><td><strong>Port-A-Challenge Obstacle 3</strong></td><td><p></p><pre><code>cheat spawnpickup Athena_PlaysetGrenade_Instance_ObstacleCourse5
 </code></pre></td></tr><tr><td><img src="https://media.discordapp.net/attachments/1102820924752937020/1146227142951190528/T-Icon-BR-CH-Obstacle01.png" alt="“”"> </td><td><strong>Port-A-Challenge Obstacle 4</strong></td><td><p></p><pre><code>cheat spawnpickup Athena_PlaysetGrenade_Instance_ObstacleCourse6
-</code></pre></td></tr><tr><td><img src=".gitbook/assets/image.png" alt=""></td><td><strong>Spiky Stadium</strong></td><td><p></p><pre><code>cheat spawnpickup Athena_SpikeArena_Grenade
+</code></pre></td></tr><tr><td><img src=".gitbook/assets/image (10).png" alt=""></td><td><strong>Spiky Stadium</strong></td><td><p></p><pre><code>cheat spawnpickup Athena_SpikeArena_Grenade
 </code></pre></td></tr></tbody></table>

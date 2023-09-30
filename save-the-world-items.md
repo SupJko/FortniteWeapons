@@ -8,8 +8,8 @@ Im still doing it, its very long to do lmao
 
 ### Ranged Weapons
 
-<table data-full-width="true"><thead><tr><th width="186">Icon</th><th width="185.33333333333331">Display Name</th><th>ID</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (8).png" alt=""></td><td><mark style="color:orange;"><strong>Vacuum Tube Sniper Rifle</strong></mark></td><td><p></p><pre><code>cheatscript spawnpickup WID_Sniper_VacuumTube_SR_Ore_T05
-</code></pre></td></tr><tr><td><img src=".gitbook/assets/image (9).png" alt=""></td><td><mark style="color:orange;"><strong>Triple Tap</strong></mark></td><td><p></p><pre><code>cheatscript spawnpickup WID_Sniper_TripleShot_SR_Ore_T06
+<table data-full-width="true"><thead><tr><th width="186">Icon</th><th width="185.33333333333331">Display Name</th><th>ID</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image (8) (1).png" alt=""></td><td><mark style="color:orange;"><strong>Vacuum Tube Sniper Rifle</strong></mark></td><td><p></p><pre><code>cheatscript spawnpickup WID_Sniper_VacuumTube_SR_Ore_T05
+</code></pre></td></tr><tr><td><img src=".gitbook/assets/image (9) (1).png" alt=""></td><td><mark style="color:orange;"><strong>Triple Tap</strong></mark></td><td><p></p><pre><code>cheatscript spawnpickup WID_Sniper_TripleShot_SR_Ore_T06
 </code></pre></td></tr><tr><td><img src=".gitbook/assets/image (11).png" alt=""></td><td><mark style="color:orange;"><strong>Frostbite</strong></mark></td><td><p></p><pre><code>cheatscript spawnpickup WID_Sniper_Standard_Winter_SR_Ore_T05
 </code></pre></td></tr><tr><td><img src=".gitbook/assets/image (12).png" alt=""></td><td><mark style="color:orange;"><strong>Dragonfly</strong></mark></td><td><p></p><pre><code>cheatscript spawnpickup WID_Sniper_Standard_SR_Ore_T06
 </code></pre></td></tr><tr><td><img src=".gitbook/assets/image (13).png" alt=""></td><td><mark style="color:orange;"><strong>Vindertech Jolter</strong></mark></td><td><p></p><pre><code>cheatscript spawnpickup WID_Sniper_Standard_Scope_VT_SR_Ore_T06
